@@ -8329,5 +8329,572 @@
     "URLS": [
       "https://www.tokyvideo.com/es/video/gigimadagascar-2-escape-a-africa-2008-latino-3"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 426543,
+    "ID_VIDEO": "videa_PhkBeRx7ciH7Ar3F",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "El cascanueces y los cuatro reinos",
+    "FECHA": "2018-10-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eYDNJvFvjgVIklbf76St7ldnsaX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/l2ji4YiNSPBV69WjGBgU0gCvRqy.jpg",
+    "GENERO": "Familia, Fantasía, Aventura",
+    "RATING": 6.082,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "El misterio será revelado.",
+    "SINOPSIS": "Todo lo que Clara (Mackenzie Foy) quiere es una llave. Durante una fascinante fiesta de Navidad en la que todos reciben sus regalos, su padrino Drosselmeyer (Morgan Freeman) conducirá a la joven hacia esta llave única, que desaparece rápidamente en un extraño y misterioso mundo paralelo. Allí, Clara conocerá a un soldado llamado Phillip (Jayden Fowora-Knight), una pandilla de ratones y a los gobernantes que presiden los tres Reinos: El Reino de las Nieves, el Reino de las Flores, y el Reino de los Dulces. Pero existe un cuarto Reino, el hogar de la tirana Mamá Jengibre (Helen Mirren). Allí comenzaron todos los problemas de estos Reinos de fantasía, cuando Mamá Jengibre inició la guerra reuniendo a sus tropas. En un lugar donde nada es lo que parece, Clara será la única que pueda detener los planes de esta tirana.",
+    "ACTORES": "  • Mackenzie Foy (Clara Stahlbaum)\n  • Jayden Fowora-Knight (Captain Phillip Hoffman)\n  • Tom Sweet (Fritz Stahlbaum)\n  • Keira Knightley (Sugar Plum Fairy)\n  • Helen Mirren (Mother Ginger)",
+    "DIRECTOR": "Lasse Hallström",
+    "TRAILER": "https://youtube.com/watch?v=65jEdJHko-M",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 667276,
+    "ID_VIDEO": "videa_Z5cRuQbUxx9BI4Be",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Las leyendas: El origen",
+    "FECHA": "2021-02-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/iGOzuXMymytSWdB8w2R04uyDLAU.jpg",
+    "GENERO": "Animación, Comedia, Fantasía, Aventura, Familia, Terror",
+    "RATING": 8.323,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Finado y Moribunda, dos calaveritas de azúcar, viven en el alegre y colorido Pueblo Calaca, donde hacen y deshacen a sus anchas sin ningún tipo de consecuencias. Todo cambia cuando un bebé humano cruza el Espejo Eterno y absorbe la energía del portal que separa los Reinos de los Vivos y los Muertos.",
+    "ACTORES": "  • Paola Ramones (Moribunda (voice))\n  • Emiliano Ugarte (Finado (voice))\n  • Liliana Barba Meinecke (Leo San Juan (voice))\n  • Daniela Ibáñez (Eva (voice))\n  • Alex Casas (Chimo (voice))",
+    "DIRECTOR": "Ricardo Arnaiz",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigilas-leyendas-el-origen-2022-Z5cRuQbUxx9BI4Be"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 606856,
+    "ID_VIDEO": "videa_CJBqEYSIwBtxzYiW",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Togo",
+    "FECHA": "2019-12-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4UUU7fVkbkBO4CnOM585tCJhFDV.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
+    "GENERO": "Aventura, Familia",
+    "RATING": 8.139,
+    "DURACION": 111,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "'Togo' es la historia real no contada ambientada en el invierno de 1925 de un periplo por el terreno traicionero de la tundra de Alaska en busca de una aventura emocionante que pondrá a prueba la fuerza, el coraje y la determinación de un hombre, Leonhard Seppala, y de su perro de trineo guía, Togo.",
+    "ACTORES": "  • Willem Dafoe (Leonhard Seppala)\n  • Julianne Nicholson (Constance Seppala)\n  • Christopher Heyerdahl (George Maynard)\n  • Richard Dormer (Dr. Curtis Welch)\n  • Adrien Dorval (Bill Clark)",
+    "DIRECTOR": "Ericson Core",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigitogo-2019-latino-CJBqEYSIwBtxzYiW"
+    ]
+  },
+  {
+    "CATEGORIA": "MADAGASCAR",
+    "TMDB_ID": 270946,
+    "ID_VIDEO": "videa_ul1QJscppfg3052n",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Los pingüinos de Madagascar",
+    "FECHA": "2014-11-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/msnknPOg9dx86b0YozXOFP8PgBI.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia",
+    "RATING": 6.543,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "Los mejores espías llevan esmoquin de serie.",
+    "SINOPSIS": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.",
+    "ACTORES": "  • Tom McGrath (Skipper (voice))\n  • Chris Miller (Kowalski (voice))\n  • Christopher Knights (Private (voice))\n  • Conrad Vernon (Rico (voice))\n  • John Malkovich (Dave (voice))",
+    "DIRECTOR": "Simon J. Smith",
+    "TRAILER": "https://youtube.com/watch?v=y2_wbsLQtoQ",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigilos-pinguinos-de-madagascar-2014-ul1QJscppfg3052n"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1022796,
+    "ID_VIDEO": "videa_FLBZA5IfpTPqCisq",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Wish: El poder de los deseos",
+    "FECHA": "2023-11-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1VXMrUioKfPAPSsezHKexx77Dbz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Aventura",
+    "RATING": 6.214,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas.",
+    "ACTORES": "  • Ariana DeBose (Asha (voice))\n  • Chris Pine (King Magnifico (voice))\n  • Alan Tudyk (Valentino (voice))\n  • Angelique Cabral (Queen Amaya (voice))\n  • Victor Garber (Sabino (voice))",
+    "DIRECTOR": "Fawn Veerasunthorn",
+    "TRAILER": "https://youtube.com/watch?v=WPVF02itjAU",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 126963,
+    "ID_VIDEO": "videa_xz0tBbS9olND4HLW",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Dragon Ball Z: La batalla de los dioses",
+    "FECHA": "2013-03-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/felXFRjJXF40NPzK1IPib8ojF2X.jpg",
+    "GENERO": "Animación, Acción, Ciencia ficción",
+    "RATING": 6.8,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "Cambia la historia de la batalla",
+    "SINOPSIS": "La historia se sitúa varios años después de la batalla con Majin Buu. Bils, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyan que ha vencido a Freezer, Bils parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido un oponente tan poderoso tras tanto tiempo, Goku ignora las advertencias de Kaito y decide enfrentarse a él.",
+    "ACTORES": "  • Masako Nozawa (Son Goku / Son Gohan / Son Goten (voice))\n  • Koichi Yamadera (Beerus (voice))\n  • Masakazu Morita (Whis (voice))\n  • Ryo Horikawa (Vegeta (voice))\n  • Hiromi Tsuru (Bulma Briefs (voice))",
+    "DIRECTOR": "Masahiro Hosoda",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/dragon-ball-z-la-batalla-xz0tBbS9olND4HLW"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 9757,
+    "ID_VIDEO": "videa_yo4O6jcdmuJtcJ3p",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Norbit",
+    "FECHA": "2007-02-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/nMgQD51KzAqrt4F6iwxw5TetVLW.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.728,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "¿Alguna vez ha cometido un error realmente grande?",
+    "SINOPSIS": "Norbit (Eddie Murphy) no ha tenido una vida fácil. De pequeño fue abandonado ante la puerta de un restaurante chino, que hacía las veces de orfanato, donde le crió el Sr. Wong (Eddie Murphy). Las cosas se ponen aún peor cuando se ve obligado a casarse con Rasputia (Eddie Murphy), la malvada y tragona reina de la comida basura. Cuando Norbit ya no puede más y está a punto de rendirse, reaparece Kate (Thandie Newton), su gran amor de infancia...",
+    "ACTORES": "  • Eddie Murphy (Norbit / Rasputia / Mr. Wong)\n  • Thandiwe Newton (Kate Thomas)\n  • Terry Crews (Big Jack Latimore)\n  • Clifton Powell (Earl Latimore)\n  • Lester Speight (Blue Latimore)",
+    "DIRECTOR": "Brian Robbins",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/norbit-2007-dan-yo4O6jcdmuJtcJ3p"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 8363,
+    "ID_VIDEO": "videa_W7tadlEXgK9tHsBS",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Supersalidos",
+    "FECHA": "2007-08-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ftUDFRYywWzajElI2RT9NIno2PS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+    "GENERO": "Comedia",
+    "RATING": 7.269,
+    "DURACION": 113,
+    "FRASE_PROMOCIONAL": "¡Ven y toma algo!",
+    "SINOPSIS": "En una de sus últimas noches como estudiantes del instituto, los amigos e inadaptados Evan y Seth experimentarán una legendaria odisea durante una tarde en la que intentan comprar bebida para una fiesta en la que estarán las chicas de sus sueños. En su peripecia les acompañará el indescriptible McLovin, otro amigo inadaptado que acaba de comprarse un carnet falso: su pasaporte para comprar el alcohol.",
+    "ACTORES": "  • Jonah Hill (Seth)\n  • Michael Cera (Evan)\n  • Christopher Mintz-Plasse (Fogell)\n  • Bill Hader (Officer Slater)\n  • Seth Rogen (Officer Michaels)",
+    "DIRECTOR": "Greg Mottola",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/super-cool-dan-W7tadlEXgK9tHsBS"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 204436,
+    "ID_VIDEO": "videa_8z1avBFe8FABnCoE",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "La mecánica del corazón",
+    "FECHA": "2014-01-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1FxgKRI2eIfgxGQfSej211wjl4O.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rjXK74vrvmFMN0vuFw3TViZ18Ha.jpg",
+    "GENERO": "Animación, Romance, Aventura, Drama, Fantasía",
+    "RATING": 7.2,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "El descubrimiento del primer amor",
+    "SINOPSIS": "Edimburgo, año 1874. Jack es un chico no muy normal. Nació en la noche más fría de la historia y como consecuencia tiene el corazón congelado. Sin embargo, para que funcione, Madeleine, la comadrona, le instala un mecanismo especial que depende de un delicado reloj. Aunque su corazón funcione a la perfección, Jack debe seguir tres reglas que, si alguna vez incumpliera, su corazón dejaría de funcionar. Estas reglas son: no tocar nunca las agujas del mecanismo, dominar su ira, y sobre todo, no enamorarse jamás.  Todo va bien hasta que Jack conoce a Miss Acacia, una pequeña cantante que ve actuar en la calle. Jack, poniendo en riesgo su corazón, decide seguir a Miss Acacia, embarcándose en un viaje por toda Europa, lleno de aventuras y fantasía, en el que Jack aprenderá a descubrir a los demás, pero también a sí mismo.",
+    "ACTORES": "  • Mathias Malzieu (Jack (voice))\n  • Olivia Ruiz (Miss Acacia (voice))\n  • Grand Corps Malade (Joe (voice))\n  • Jean Rochefort (Méliès (voice))\n  • Emily Loizeau (Madeleine #2 (voice))",
+    "DIRECTOR": "Stéphane Berla",
+    "TRAILER": "https://youtube.com/watch?v=XHphoWVOeCI",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/la-mecanica-del-corazon-dan-8z1avBFe8FABnCoE"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20526,
+    "ID_VIDEO": "videa_VRz6rBHcfqVlqqgg",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "TRON: Legacy",
+    "FECHA": "2010-12-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/m3tkTgatN1IuwKGAFnsiLakRQLh.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+    "GENERO": "Aventura, Acción, Ciencia ficción",
+    "RATING": 6.546,
+    "DURACION": 125,
+    "FRASE_PROMOCIONAL": "El juego ha cambiado.",
+    "SINOPSIS": "Cuando Sam Flynn, programador experto en tecnología de 27 años e hijo de Kevin Flynn, investiga la desaparición de su padre, se encuentra de repente inmerso en un peligroso y salvaje mundo surreal donde existen feroces luchas a muerte, un lugar paralelo donde su padre ha estado viviendo durante 25 años. Con la ayuda de una joven, padre e hijo se embarcarán en un viaje a vida o muerte a través de un universo cibernético, que con el tiempo se ha convertido en mucho más avanzado y peligroso.",
+    "ACTORES": "  • Garrett Hedlund (Sam Flynn)\n  • Olivia Wilde (Quorra)\n  • Jeff Bridges (Kevin Flynn / Clu)\n  • Bruce Boxleitner (Alan Bradley / Tron)\n  • James Frain (Jarvis)",
+    "DIRECTOR": "Joseph Kosinski",
+    "TRAILER": "https://youtube.com/watch?v=pqCgsk2Li_4",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 527774,
+    "ID_VIDEO": "videa_gtjyx0xrv0Jd1NNN",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Raya y el último dragón",
+    "FECHA": "2021-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+    "GENERO": "Animación, Acción, Aventura, Fantasía, Familia",
+    "RATING": 7.8,
+    "DURACION": 114,
+    "FRASE_PROMOCIONAL": "Una búsqueda para salvar su mundo.",
+    "SINOPSIS": "Raya, una niña de gran espíritu aventurero,  se embarca en la búsqueda del último dragón del mundo con el objetivo de devolver el equilibrio a Kumandra, un lejano y recóndito territorio habitado por una civilización milenaria.",
+    "ACTORES": "  • Kelly Marie Tran (Raya (voice))\n  • Awkwafina (Sisu (voice))\n  • Gemma Chan (Namaari (voice))\n  • Alan Tudyk (Tuk Tuk (voice))\n  • Izaac Wang (Boun (voice))",
+    "DIRECTOR": "Don Hall",
+    "TRAILER": "https://youtube.com/watch?v=R3AECE35Anw",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
+    ]
+  },
+  {
+    "CATEGORIA": "LOS_PITUFOS",
+    "TMDB_ID": 41513,
+    "ID_VIDEO": "videa_TxXNUqWQCJcOSSgL",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Los pitufos",
+    "FECHA": "2011-07-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/iYLimHUF0C0R61v1ofg79SUIja9.jpg",
+    "GENERO": "Animación, Familia, Aventura, Comedia, Fantasía",
+    "RATING": 5.8,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "Pitufeante.",
+    "SINOPSIS": "Gargamel descubre la aldea mágica de los Pitufos y provoca con sus malas artes que la abandonen y se dispersen por el bosque. Por desgracia, Tontín se equivoca de camino y, junto con otros pitufos, entrará en una ruta prohibida. La luna azul y un portal mágico los transportarán a Central Park, en Nueva York. Sin embargo, Gargamel sigue persiguiéndolos, por lo que los Pitufos buscarán refugio en casa de un matrimonio...",
+    "ACTORES": "  • Hank Azaria (Gargamel)\n  • Neil Patrick Harris (Patrick Winslow)\n  • Jayma Mays (Grace Winslow)\n  • Jonathan Winters (Papa Smurf (voice))\n  • Katy Perry (Smurfette (voice))",
+    "DIRECTOR": "Raja Gosnell",
+    "TRAILER": "https://youtube.com/watch?v=3-unThbvijE",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/los-pitufos-1-dan-TxXNUqWQCJcOSSgL"
+    ]
+  },
+  {
+    "CATEGORIA": "LOS_PITUFOS",
+    "TMDB_ID": 77931,
+    "ID_VIDEO": "videa_qwcNZvHZ4y8cYlau",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Los pitufos 2",
+    "FECHA": "2013-07-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/vjb5WNkwZJDIcmVrzR4GyPmPRZo.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/aIyvMthA7UGV6ix6AUUM88ZXfeU.jpg",
+    "GENERO": "Fantasía, Familia, Comedia, Animación",
+    "RATING": 5.7,
+    "DURACION": 115,
+    "FRASE_PROMOCIONAL": "¡Preparate para ser malote!",
+    "SINOPSIS": "Secuela de \"Los pitufos\", adaptación del cómic homónimo realizada en 2011 por Raja Gosnell. En esta secuela, el cruel y malvado Gargamel regresa con más fuerza que nunca para poder robar a los Pitufos la más pura esencia de su magia y para ello, fabrica dos pequeños Pitufos falsos llamados Naughties. Pero Gargamel, no tardará en darse cuenta de que no servirá de nada porque la magia que él anhela, sólo se la puede proporcionar un Pitufo verdadero, por eso decide secuestrar a la Pitufina y trasladarla a París, donde se ha ganado la admiración de miles de personas como el mejor mago del mundo. Ahora todo queda en manos de Papa pitufo y sus camaradas, quienes tendrán que volver al mundo de los humanos para salvar a la Pitufina.",
+    "ACTORES": "  • Katy Perry (Smurfette (voice))\n  • Hank Azaria (Gargamel)\n  • Neil Patrick Harris (Patrick Winslow)\n  • Jayma Mays (Grace Winslow)\n  • Brendan Gleeson (Victor Doyle)",
+    "DIRECTOR": "Raja Gosnell",
+    "TRAILER": "https://youtube.com/watch?v=Rn66I93fKEY",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/los-pitufos-2-dan-qwcNZvHZ4y8cYlau"
+    ]
+  },
+  {
+    "CATEGORIA": "LOS_PITUFOS",
+    "TMDB_ID": 137116,
+    "ID_VIDEO": "videa_nCE211BiesmHAPtR",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Los Pitufos: La aldea escondida",
+    "FECHA": "2017-03-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zqXn3gaMBNHNK7YHdYNidwWrJoT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sN1sIv6YZTpdBr7D9mQBxGzRnLL.jpg",
+    "GENERO": "Familia, Comedia, Aventura, Animación",
+    "RATING": 6.4,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Nunca estuvieron solos...",
+    "SINOPSIS": "A Pitufina le parece que todos los demás habitantes de la aldea tienen un propósito: Papá Pitufo (dirigir), Pitufo Panadero (preparar pan y pasteles), incluso Pitufo Gruñón (gruñir); salvo ella. Así que, ¿qué puede hacer la única chica de la aldea? ¡Pues partir en busca del suyo, naturalmente! Cuando se cruza por casualidad con una misteriosa criatura que huye hacia el Bosque Encantado, la sigue y se interna por territorio inexplorado y totalmente prohibido. A ella se le unen sus hermanos Filósofo, Valiente y Torpe y con el malvado mago Gargamel siguiéndolos de cerca. El equipo pitufo emprenderá así un alocado viaje lleno de acción, peligro y descubrimientos, que los conducirá al mayor misterio de la historia Pitufa.  Dirigida por Kelly Asbury, con la producción ejecutiva de Raja Gosnell y Ben Waisbren. La película, completamente animada, supone un regreso al tono y el estilo de las queridas creaciones del cómic de Peyo.",
+    "ACTORES": "  • Demi Lovato (Smurfette (voice))\n  • Rainn Wilson (Gargamel (voice))\n  • Joe Manganiello (Hefty (voice))\n  • Jack McBrayer (Clumsy (voice))\n  • Danny Pudi (Brainy (voice))",
+    "DIRECTOR": "Kelly Asbury",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/los-pitufos-3-la-aldea-nCE211BiesmHAPtR"
+    ]
+  },
+  {
+    "CATEGORIA": "HOTEL_TRANSILVANIA",
+    "TMDB_ID": 76492,
+    "ID_VIDEO": "videa_gZ3PjOGzVxgl6z5V",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Hotel Transilvania",
+    "FECHA": "2012-09-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.968,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "Los monstruos también necesitan vacaciones.",
+    "SINOPSIS": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+    "ACTORES": "  • Selena Gómez (Mavis Dracula (voice))\n  • Adam Sandler (Count Dracula (voice))\n  • Andy Samberg (Jonathan Loughran (voice))\n  • Kevin James (Frankenstein (voice))\n  • Fran Drescher (Eunice (voice))",
+    "DIRECTOR": "Genndy Tartakovsky",
+    "TRAILER": "https://youtube.com/watch?v=mZ7wb2SmDMI",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2012-latino-gZ3PjOGzVxgl6z5V"
+    ]
+  },
+  {
+    "CATEGORIA": "HOTEL_TRANSILVANIA",
+    "TMDB_ID": 159824,
+    "ID_VIDEO": "videa_0hNUsgBopOwUnkVz",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Hotel Transilvania 2",
+    "FECHA": "2015-09-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mfnkxXWuh2Br097Qteq8ieqKfev.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.763,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "Cuando lo pasas de miedo siempre vuelves.",
+    "SINOPSIS": "Todo parece mejorar en el Hotel Transilvania. La rígida norma establecida por Drácula de “sólo para monstruos” se ha suprimido y se aceptan también huéspedes humanos. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no dé señal alguna de vampirismo. Aprovechando que Mavis ha ido a visitar a sus suegros humanos, Drácula recluta a sus amigos Frank, Murray, Wayne y Griffin para hacer que Dennis pase por un campamento de “entrenamiento de monstruos”. Lo que ignoran es que Vlad, el gruñón padre de Drácula, está a punto de llegar al hotel. Y cuando descubra que su bisnieto no es de sangre pura y que los humanos pueden frecuentar el establecimiento las cosas se complicarán.",
+    "ACTORES": "  • Adam Sandler (Dracula (voice))\n  • Selena Gómez (Mavis Dracula (voice))\n  • Andy Samberg (Johnny Loughran (voice))\n  • Kevin James (Frankenstein (voice))\n  • Steve Buscemi (Wayne (voice))",
+    "DIRECTOR": "Genndy Tartakovsky",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2-2015-latino-0hNUsgBopOwUnkVz"
+    ]
+  },
+  {
+    "CATEGORIA": "HOTEL_TRANSILVANIA",
+    "TMDB_ID": 400155,
+    "ID_VIDEO": "videa_9mXQujZILvUtDLQv",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Hotel Transilvania 3: Unas vacaciones monstruosas",
+    "FECHA": "2018-06-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gvUYIHWzq7r3KuzAaKvly2h0SjM.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.8,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Vacaciones en familia. Te chuparán lo que te queda de vida.",
+    "SINOPSIS": "Nuestra familia de monstruos favorita se embarca en un crucero de lujo para que por fin Drac pueda tomarse un descanso de proveer de vacaciones al resto en el hotel. Es una navegación tranquila para la pandilla de Drac, ya que los monstruos se entregan a toda la diversión a bordo que ofrece el crucero, desde el voleibol de monstruos y las excursiones exóticas, a ponerse al día con sus bronceados de luna. Pero las vacaciones de ensueño se convierten en una pesadilla cuando Mavis se da cuenta de que Drac se ha enamorado de la misteriosa capitana de la nave, Ericka, quien esconde un peligroso secreto que podría destruir a todos los monstruos.",
+    "ACTORES": "  • Adam Sandler (Count Dracula (voice))\n  • Kathryn Hahn (Ericka Van Helsing (voice))\n  • Selena Gómez (Mavis Dracula (voice))\n  • Jim Gaffigan (Professor Abraham Van Helsing (voice))\n  • Andy Samberg (Johnny Loughran (voice))",
+    "DIRECTOR": "Genndy Tartakovsky",
+    "TRAILER": "https://youtube.com/watch?v=9c44MV4vw9c",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigihotel-transilvania-3-monstruos-de-9mXQujZILvUtDLQv"
+    ]
+  },
+  {
+    "CATEGORIA": "HOTEL_TRANSILVANIA",
+    "TMDB_ID": 585083,
+    "ID_VIDEO": "videa_KAAwHGz3O0mTqwch",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Hotel Transilvania: Transformanía",
+    "FECHA": "2022-01-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
+    "GENERO": "Animación, Comedia, Familia, Aventura, Fantasía",
+    "RATING": 7.0,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "El cambio puede dar miedo",
+    "SINOPSIS": "Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el \"Rayo Monstrificador\", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
+    "ACTORES": "  • Andy Samberg (Johnny (voice))\n  • Selena Gómez (Mavis (voice))\n  • Kathryn Hahn (Ericka (voice))\n  • Jim Gaffigan (Van Helsing (voice))\n  • Steve Buscemi (Wayne (voice))",
+    "DIRECTOR": "Jennifer Kluska",
+    "TRAILER": "https://youtube.com/watch?v=HRvfDRPxTIg",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigihotel-transilvania-4-transformania-2022-KAAwHGz3O0mTqwch"
+    ]
+  },
+  {
+    "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
+    "TMDB_ID": 10191,
+    "ID_VIDEO": "videa_2pGGTemlHXQi4pYY",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Cómo entrenar a tu dragón",
+    "FECHA": "2010-03-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8ekxsUORMAsfmSc8GzHmG8gWPbp.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+    "GENERO": "Fantasía, Aventura, Animación, Familia",
+    "RATING": 7.867,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "Una aventura cambiará dos mundos.",
+    "SINOPSIS": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
+    "ACTORES": "  • Jay Baruchel (Hiccup (voice))\n  • Gerard Butler (Stoick (voice))\n  • Craig Ferguson (Gobber (voice))\n  • America Ferrera (Astrid (voice))\n  • Jonah Hill (Snotlout (voice))",
+    "DIRECTOR": "Chris Sanders",
+    "TRAILER": "https://youtube.com/watch?v=-k5ve8onP1M",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-2pGGTemlHXQi4pYY"
+    ]
+  },
+  {
+    "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
+    "TMDB_ID": 82702,
+    "ID_VIDEO": "videa_8YJJlhuRMLORs0OU",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Cómo entrenar a tu dragón 2",
+    "FECHA": "2014-06-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
+    "GENERO": "Fantasía, Acción, Aventura, Animación, Familia",
+    "RATING": 7.685,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "El entrenamiento ha terminado. La aventura comienza.",
+    "SINOPSIS": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+    "ACTORES": "  • Jay Baruchel (Hiccup (voice))\n  • Cate Blanchett (Valka (voice))\n  • Gerard Butler (Stoick (voice))\n  • Craig Ferguson (Gobber (voice))\n  • America Ferrera (Astrid (voice))",
+    "DIRECTOR": "Dean DeBlois",
+    "TRAILER": "https://youtube.com/watch?v=Ag_fkJsqlNY",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-8YJJlhuRMLORs0OU"
+    ]
+  },
+  {
+    "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
+    "TMDB_ID": 166428,
+    "ID_VIDEO": "videa_3FWjYHaF4A2lFRIk",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Cómo entrenar a tu dragón 3",
+    "FECHA": "2019-01-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 7.8,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "Una amistad eterna.",
+    "SINOPSIS": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
+    "ACTORES": "  • Jay Baruchel (Hiccup (voice))\n  • America Ferrera (Astrid (voice))\n  • F. Murray Abraham (Grimmel (voice))\n  • Cate Blanchett (Valka (voice))\n  • Gerard Butler (Stoick (voice))",
+    "DIRECTOR": "Dean DeBlois",
+    "TRAILER": "https://youtube.com/watch?v=kN3lE7rpggQ",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-3FWjYHaF4A2lFRIk"
+    ]
+  },
+  {
+    "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
+    "TMDB_ID": 1087192,
+    "ID_VIDEO": "videa_UxsRuI3iinDz0URM",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Cómo entrenar a tu dragón",
+    "FECHA": "2025-06-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/AeDzjt00Hfh9CuW7TIUdYBJmWYM.jpg",
+    "GENERO": "Fantasía, Familia, Acción, Aventura",
+    "RATING": 7.929,
+    "DURACION": 125,
+    "FRASE_PROMOCIONAL": "La leyenda es real.",
+    "SINOPSIS": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+    "ACTORES": "  • Mason Thames (Hiccup)\n  • Nico Parker (Astrid)\n  • Gerard Butler (Stoick)\n  • Nick Frost (Gobber)\n  • Gabriel Howell (Snotlout)",
+    "DIRECTOR": "Dean DeBlois",
+    "TRAILER": "https://youtube.com/watch?v=Ns6ZEpQ1xS0",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-UxsRuI3iinDz0URM"
+    ]
+  },
+  {
+    "CATEGORIA": "TROLLS",
+    "TMDB_ID": 136799,
+    "ID_VIDEO": "videa_h7XvP2rxTAbtRS7W",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Trolls",
+    "FECHA": "2016-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.624,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Encuentra la felicidad.",
+    "SINOPSIS": "Conocidos por sus pelos de colores, locos y mágicos, los Trolls son las criaturas más felices y alegres que irrumpen en el mundo de la canción. Pero su mundo de arco iris y cupcakes cambiará para siempre cuando su líder Poppy debe embarcarse en una misión de rescate que la llevará muy lejos del único mundo que siempre ha conocido.",
+    "ACTORES": "  • Anna Kendrick (Poppy (voice))\n  • Justin Timberlake (Branch (voice))\n  • Zooey Deschanel (Bridget (voice))\n  • Christopher Mintz-Plasse (King Gristle (voice))\n  • Christine Baranski (Chef (voice))",
+    "DIRECTOR": "Mike Mitchell",
+    "TRAILER": "https://youtube.com/watch?v=yGXDktdsjBA",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigitrolls-2016-latino-h7XvP2rxTAbtRS7W"
+    ]
+  },
+  {
+    "CATEGORIA": "TROLLS",
+    "TMDB_ID": 446893,
+    "ID_VIDEO": "videa_dOSDT0eMNOeRoFVO",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Trolls 2: Gira mundial",
+    "FECHA": "2020-03-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
+    "GENERO": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
+    "RATING": 7.226,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+    "ACTORES": "  • Anna Kendrick (Poppy (voice))\n  • Justin Timberlake (Branch (voice))\n  • Ron Funches (Cooper (voice))\n  • Rachel Bloom (Barb (voice))\n  • James Corden (Biggie (voice))",
+    "DIRECTOR": "Walt Dohrn",
+    "TRAILER": "https://youtube.com/watch?v=6zaZFUqURFA",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigitrolls-2-gira-mundial-2020-dOSDT0eMNOeRoFVO"
+    ]
+  },
+  {
+    "CATEGORIA": "TROLLS",
+    "TMDB_ID": 901362,
+    "ID_VIDEO": "videa_omut2yjSVLADQy31",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Trolls 3: Todos juntos",
+    "FECHA": "2023-10-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/saGpA6u71TPA8DyTYoAqSBGVZW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
+    "GENERO": "Animación, Familia, Música, Fantasía, Comedia, Aventura",
+    "RATING": 7.243,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "Nuevos trolls se unen al espectáculo.",
+    "SINOPSIS": "Cuando Floyd, uno de los hermanos de Branch, es secuestrado por una pareja de maléficas estrellas del pop para aprovecharse de su talento musical, Branch y Poppy tendrán que embarcarse en un viaje tan aterrador como emotivo para reunir a la familia y rescatar a Floyd de un destino aún peor que el desolador olvido de los fans.",
+    "ACTORES": "  • Anna Kendrick (Poppy (voice))\n  • Justin Timberlake (Branch (voice))\n  • Camila Cabello (Viva (voice))\n  • Eric André (John Dory (voice))\n  • Amy Schumer (Velvet (voice))",
+    "DIRECTOR": "Walt Dohrn",
+    "TRAILER": "https://youtube.com/watch?v=U9IvMjKjXhA",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigitrolls-3-se-armo-la-omut2yjSVLADQy31"
+    ]
+  },
+  {
+    "CATEGORIA": "BOB_ESPONJA",
+    "TMDB_ID": 11836,
+    "ID_VIDEO": "videa_SBtHI42e4p7zyZMo",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Bob Esponja: La película",
+    "FECHA": "2004-11-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/CtISczftMz6g7kyk5uLxBben8b.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/i2fZIltljrhFPsUK9PN6O6ZE7M4.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.1,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Hay problemas en Fondo de Bikini: la corona del Rey Neptuno ha desaparecido y las sospechas recaen en el señor Cangrejo. Junto a Patricio, su mejor amigo, Bob Esponja marcha a la peligrosa Concha City para recuperar la corona de Neptuno y salvar al señor Cangrejo.",
+    "ACTORES": "  • Tom Kenny (SpongeBob / Narrator / Gary /  Various (voice))\n  • Clancy Brown (Mr. Krabs (voice))\n  • Rodger Bumpass (Squidward / Fish #4 (voice))\n  • Bill Fagerbakke (Patrick Star / Fish #2 / Chum Customer / Local Fish (voice))\n  • Mr. Lawrence (Plankton / Fish #7 / Attendant #2 (voice))",
+    "DIRECTOR": "Stephen Hillenburg",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigibob-esponja-la-pelicula-2004-SBtHI42e4p7zyZMo"
+    ]
+  },
+  {
+    "CATEGORIA": "BOB_ESPONJA",
+    "TMDB_ID": 991494,
+    "ID_VIDEO": "videa_h1IXsfIqjJC3CbSp",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Bob Esponja: Una aventura pirata",
+    "FECHA": "2025-12-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8pE6H7PHwINoQYPPU1fEcQz5gQ6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.808,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
+    "ACTORES": "  • Tom Kenny (SpongeBob SquarePants / Gary / Morning DJ (voice))\n  • Clancy Brown (Mr. Krabs / Pirate / Narrator)\n  • Rodger Bumpass (Squidward Tentacles (voice))\n  • Bill Fagerbakke (Patrick Star (voice))\n  • Carolyn Lawrence (Sandy Cheeks (voice))",
+    "DIRECTOR": "Derek Drymon",
+    "TRAILER": "https://youtube.com/watch?v=VPBk6izFecU",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigibob-esponja-en-busca-de-h1IXsfIqjJC3CbSp"
+    ]
   }
 ]
