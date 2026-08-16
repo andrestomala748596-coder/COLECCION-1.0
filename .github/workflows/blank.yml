@@ -1,0 +1,41 @@
+name: Update URLs Directas Multi-Platform
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'urls.txt'
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Instalar yt-dlp
+      run: pip install --upgrade yt-dlp
+
+    - name: Ejecutar extractor
+      run: python extractor.py
+
+    - name: Commit y push (NUNCA borrar urls.txt)
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add peliculas/
+        git add category_list.json
+        git add urls.txt
+        git diff --staged --quiet || git commit -m "🔄 URLs actualizadas - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
