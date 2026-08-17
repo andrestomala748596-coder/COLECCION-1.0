@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989191187061"
     ],
-    "URL_DIRECTA": "https://vd567.okcdn.ru/?expires=1787021797402&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.79&type=5&sig=AUfDbFeA-Lk&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=5957255957109"
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1787035547277&srcIp=52.173.162.102&pr=10&srcAg=CHROME&ms=95.142.206.134&type=5&sig=KC2kwZrg6yo&ct=0&urls=178.237.23.79%3B176.112.172.1&clientType=0&zs=43&id=5957255957109"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989304564341"
     ],
-    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1787021801783&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.82&type=3&sig=x4G8PwXw42U&ct=0&urls=178.237.23.41&clientType=0&zs=43&id=5957341416053"
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1787035550673&srcIp=52.173.162.102&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=9jG6vD4Vclw&ct=0&urls=176.112.172.82%3B178.237.23.41&clientType=0&zs=43&id=5957341416053"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989331827317"
     ],
-    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1787021806161&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.33&type=5&sig=Epx44U0KWPg&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=5957421304437"
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/?expires=1787035554091&srcIp=52.173.162.102&pr=10&srcAg=CHROME&ms=95.142.206.132&type=5&sig=Epe76JPitbM&ct=0&urls=185.180.203.33%3B176.112.172.28&clientType=0&zs=43&id=5957421304437"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -81,6 +81,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989373770357"
     ],
-    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1787021810231&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.0&type=5&sig=Bap1PLZgZGU&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797"
+    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1787035557617&srcIp=52.173.162.102&pr=10&srcAg=CHROME&ms=176.112.172.0&type=5&sig=gYbu_ghCFN4&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797"
   }
 ]
