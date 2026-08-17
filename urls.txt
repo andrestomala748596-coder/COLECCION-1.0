@@ -22,7 +22,8 @@
       "https://www.tokyvideo.com/es/video/gigimadagascar-3-los-fugitivos-2012-latino-3"
     ],
     "ID_VIDEO": null,
-    "PLATAFORMA": "tokyvideo.com"
+    "PLATAFORMA": "tokyvideo.com",
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=6pg3iz-axHMAI2nK24TgAA%3D%3D%2C1787021305"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -43,7 +44,8 @@
     "TRAILER": "https://youtube.com/watch?v=04pwLsCeFlM",
     "URLS": [
       "https://videa.hu/videok/film-animacio/antz-1998-latino-AYrRlgadTVZJ7rdP"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=z1AH-1Rt9CwV4aVRQmwpSQ&expires=1786963710"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -63,7 +65,8 @@
     "TRAILER": "https://youtube.com/watch?v=HgGMeCaMtq8",
     "URLS_OKRU": [
       "https://ok.ru/video/15065638439662"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787021312293/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.128/type/7/sig/EFTFnEhgMG0/ct/8/urls/185.226.55.13%3B185.180.203.28/clientType/0/zs/43/id/16707185740526/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -83,7 +86,8 @@
     "TRAILER": "https://youtube.com/watch?v=ZrCWAQaMNdQ",
     "URLS_OKRU": [
       "https://ok.ru/video/12356596992750"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1787021315371/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1345901099/ms/95.142.206.134/type/7/sig/0Sb0F2xjU84/ct/8/urls/178.237.23.82%3B185.180.203.121/clientType/0/zs/43/id/11814112070382/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -103,7 +107,8 @@
     "TRAILER": "https://youtube.com/watch?v=0gc36idTb3c",
     "URLS_OKRU": [
       "https://ok.ru/video/10025084259054"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787021318763/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.131/type/7/sig/dvPGFe5vUOs/ct/8/urls/185.180.203.32%3B185.226.55.21/clientType/0/zs/43/id/8816181316334/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -123,7 +128,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14070562818798"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787021322119/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.140/type/7/sig/WUrVf6SfffA/ct/8/urls/95.163.35.112%3B178.237.29.2/clientType/0/zs/43/id/14924426513134/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -143,7 +149,8 @@
     "TRAILER": "https://youtube.com/watch?v=niLYmZoEfA0",
     "URLS_OKRU": [
       "https://ok.ru/video/9499578862203"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787021325261/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/6MGgFGH-Yuc/ct/8/urls/95.163.35.118%3B176.112.172.102/clientType/0/zs/43/id/8524312349307/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -163,7 +170,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9499579255419"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787021328154/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.137/type/5/sig/9tq0q0_AX0w/ct/8/urls/178.237.23.8%3B95.163.35.10/clientType/0/zs/43/id/8524315101819/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -183,7 +191,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9494704491131"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787021330919/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/wB5IHgqMBY4/ct/8/urls/178.237.23.42%3B176.112.172.12/clientType/0/zs/43/id/8516719807099/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -203,7 +212,8 @@
     "TRAILER": "https://youtube.com/watch?v=hc_sTi1wu-8",
     "URLS_OKRU": [
       "https://ok.ru/video/9489019439739"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1787021333761/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/U7Y3CeAyJJY/ct/8/urls/185.180.203.27/clientType/0/zs/43/id/8508940880507/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -223,7 +233,8 @@
     "TRAILER": "https://youtube.com/watch?v=r39ys9K3LgA",
     "URLS_OKRU": [
       "https://ok.ru/video/8854633712251"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787021336637/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/HWFEOszNfpA/ct/8/urls/185.180.203.95%3B176.112.172.82/clientType/0/zs/43/id/7558622677627/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -243,7 +254,8 @@
     "TRAILER": "https://youtube.com/watch?v=G4uMQMMdFeg",
     "URLS_OKRU": [
       "https://ok.ru/video/8810199779963"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1787021339369/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/6AzfkuzqzSg/ct/8/urls/95.163.35.115%3B176.112.172.34/clientType/0/zs/43/id/7502049643131/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -263,7 +275,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8789493418619"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd552.okcdn.ru/expires/1787021342895/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-773195492/ms/185.226.55.62/type/3/sig/zOrzHQpZCNc/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/7475416992379/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -283,7 +296,8 @@
     "TRAILER": "https://youtube.com/watch?v=h0aVp3xCexg",
     "URLS_OKRU": [
       "https://ok.ru/video/8702908959355"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd291.okcdn.ru/expires/1787021345968/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.66/type/3/sig/wwJUsEzmwdk/ct/8/urls/185.180.203.29/clientType/0/zs/43/id/7450541886075/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -303,7 +317,8 @@
     "TRAILER": "https://youtube.com/watch?v=NFVpoI_Qjq8",
     "URLS_OKRU": [
       "https://ok.ru/video/8605591014011"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787021349500/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/8sczk-0ty9k/ct/8/urls/95.163.35.37%3B176.112.172.77/clientType/0/zs/43/id/7430781930107/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -323,7 +338,8 @@
     "TRAILER": "https://youtube.com/watch?v=QIB5xThGLcU",
     "URLS_OKRU": [
       "https://ok.ru/video/8482230504031"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd371.okcdn.ru/?expires=1787021352116&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.84&type=3&sig=3y8FSiwmK5I&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=7283102583391"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -343,7 +359,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6262620621315"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd437.okcdn.ru/?expires=1787021356631&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.57&type=3&sig=Hu3LCltf7Ks&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=5283225340419"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -363,7 +380,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6252798544387"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1787021360242&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=NM7OZkodfVo&ct=0&urls=95.163.35.31&clientType=0&zs=43&id=5267371919875"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -383,7 +401,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6252344904195"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1787021365297/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/3HCwwKmb2Lc/ct/8/urls/185.180.203.28%3B185.226.53.31/clientType/0/zs/43/id/6382308231683/video/"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -404,7 +423,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16013984270872",
       "https://ok.ru/video/16013984270872"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd729.okcdn.ru/expires/1787021368317/clientType/0/srcIp/52.161.59.3/type/2/mid/16013984270872/id/15233169099315/ms/95.163.35.6/zs/43/srcAg/CHROME/urls/176.112.172.40/oq/0/pr/10/ct/28/sig/hZCFEgTlp1U/ondemand/CLOUiP2ruwMSFAizlIj9q7sDELOUiP2ruwMYASABGhQIs5SI_au7AxCzlIj9q7sDGAEgAiADKAIwAzgCePEBHMdHZ4uEEkU/fn/track.m3u8"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -424,7 +444,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16015205468696"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -444,7 +465,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014882900504"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd570.okcdn.ru/expires/1787021376151/clientType/0/srcIp/52.161.59.3/type/2/mid/16014882900504/id/17614279084568/ms/178.237.23.82/zs/43/srcAg/CHROME/urls/176.112.172.9/oq/0/pr/10/ct/28/sig/AwcTMlUOc0Q/ondemand/CJiU5KbSgAQSFAiYlOSm0oAEEJiU5KbSgAQYMCABGhQImJTkptKABBCYlOSm0oAEGDAgAiABMAM4AnjmBd7e5rGHjqLW/fn/track.m3u8"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -464,7 +486,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014706084376"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd216.okcdn.ru/?expires=1787021379611&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.56&type=3&sig=5AIYKrcADcg&ct=0&urls=185.226.55.110&clientType=0&zs=43&id=17613977094680"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -484,7 +507,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014161676824"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd516.okcdn.ru/?expires=1787021383249&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.26&type=3&sig=nMK35m3TuW4&ct=0&urls=185.180.203.22&clientType=0&zs=43&id=17613108087320"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -504,7 +528,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014161742360"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -524,7 +549,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014161349144"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd708.okcdn.ru/?expires=1787021391676&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.24&type=3&sig=tO2HxdQzSc8&ct=0&urls=185.226.55.56&clientType=0&zs=43&id=17613083839000"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -544,7 +570,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16014161414680"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd218.okcdn.ru/?expires=1787021395116&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.58&type=2&sig=Pz93xQLk8ZQ&ct=0&urls=178.237.23.82&clientType=0&zs=43&id=17613087115800"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -564,7 +591,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16013411617304"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd263.okcdn.ru/expires/1787021399263/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.44/type/3/sig/Dq8W8bAJW20/ct/8/urls/178.237.23.124/clientType/0/zs/43/id/17611891608088/video/"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -584,7 +612,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16015205403160"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -604,7 +633,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16015205665304"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd241.okcdn.ru/expires/1787021405101/clientType/0/srcIp/52.161.59.3/type/2/mid/16015205665304/id/17614840400408/ms/95.163.35.71/zs/43/srcAg/CHROME/urls/185.180.203.123/oq/0/pr/10/ct/28/sig/Vt2wBOdvQH4/ondemand/CJiUuLLUgAQSFAiYlLiy1IAEEJiUuLLUgAQYMCABGhQImJS4stSABBCYlLiy1IAEGDAgAiABMAM4AnjuAXkleYdn-nIj/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -624,7 +654,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7360274958909"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1787021408426/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.16/type/5/sig/3qWqZmv748k/ct/8/urls/95.163.35.40/clientType/0/zs/43/id/7035629603389/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -644,7 +675,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6567384779325"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd218.okcdn.ru/expires/1787021411423/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.58/type/5/sig/_OMRNPT-kRo/ct/8/urls/185.180.203.36/clientType/0/zs/43/id/5789410593341/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -664,7 +696,8 @@
     "TRAILER": "https://youtube.com/watch?v=QM1VvtQwkTs",
     "URLS_OKRU": [
       "https://ok.ru/video/6265077303869"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd316.okcdn.ru/?expires=1787021414352&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.68&type=7&sig=rGymkCgi0cM&ct=0&urls=176.112.172.101&clientType=0&zs=43&id=5312077892157"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -684,7 +717,8 @@
     "TRAILER": "https://youtube.com/watch?v=3QoJsp-MKt0",
     "URLS_OKRU": [
       "https://ok.ru/video/6206536157757"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd524.okcdn.ru/expires/1787021418222/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/185.226.55.34/type/7/sig/vXcaZZxi4_E/ct/8/urls/178.237.29.2/clientType/0/zs/43/id/5223641385533/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -704,7 +738,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3806534502926"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787021420892/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.142.206.132/type/2/sig/t0YvImKQa7M/ct/8/urls/176.112.172.14%3B95.163.35.45/clientType/0/zs/43/id/2329767381518/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -724,7 +759,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3806534437390"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787021424145/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/93Tx-XrYHDs/ct/8/urls/176.112.172.44%3B185.180.203.39/clientType/0/zs/43/id/1798453791299/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -744,7 +780,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3806329571854"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787021426874/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.128/type/1/sig/ZxiUDjeE4tU/ct/8/urls/185.180.203.120%3B185.226.55.59/clientType/0/zs/43/id/2355873122830/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -764,7 +801,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802776865294"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd581.okcdn.ru/expires/1787021429965/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.102/type/3/sig/C_chMOJU2PE/ct/8/urls/178.237.23.80/clientType/0/zs/43/id/2613829503502/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -784,7 +822,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3806329440782"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787021432788/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.132/type/1/sig/abKLm11CeJM/ct/8/urls/176.112.172.83%3B185.180.203.50/clientType/0/zs/43/id/1301110786648/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -804,7 +843,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3804202666510"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021435932/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.141/type/1/sig/7Vnh80nZzqI/ct/8/urls/95.163.35.14%3B178.237.29.131/clientType/0/zs/43/id/1300982073944/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -824,7 +864,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3804202600974"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787021439142/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/ARcSfbEkZWo/ct/8/urls/176.112.172.3%3B95.163.35.2/clientType/0/zs/43/id/2355804441102/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -844,7 +885,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3804202535438"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787021442187/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.131/type/1/sig/uTa_ppG4E2w/ct/8/urls/178.237.23.125%3B185.226.55.102/clientType/0/zs/43/id/2355848612366/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -864,7 +906,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803834288654"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1787021445268/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.135/type/1/sig/lgSA2WmMGfw/ct/8/urls/185.226.55.40%3B185.180.203.31/clientType/0/zs/43/id/1773413796592/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -884,7 +927,8 @@
     "TRAILER": "https://youtube.com/watch?v=kGJsGOBnQRQ",
     "URLS_OKRU": [
       "https://ok.ru/video/3803834223118"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/?expires=1787021448560&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.140&type=0&sig=HIMPyjU_jKA&ct=0&urls=178.237.29.2%3B185.226.55.38&clientType=0&zs=43&id=7389813344773"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -904,7 +948,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803834157582"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1787021450630/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.142/type/3/sig/KjTzLCoadbw/ct/8/urls/185.180.203.90%3B178.237.23.83/clientType/0/zs/43/id/2615130851854/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -924,7 +969,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803834092046"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1787021453773/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1811865663/ms/95.142.206.142/type/0/sig/o2QlCoPAbug/ct/8/urls/178.237.23.31%3B95.163.35.9/clientType/0/zs/43/id/1773349440240/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -944,7 +990,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803834026510"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1787021457241/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.142/type/3/sig/xzYHpbfcETE/ct/8/urls/185.226.55.63%3B185.180.203.119/clientType/0/zs/43/id/2329801460238/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -964,7 +1011,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803833960974"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021460073/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.141/type/3/sig/ODLoF4_1p6s/ct/8/urls/178.237.23.1%3B185.226.55.23/clientType/0/zs/43/id/2355763481102/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -984,7 +1032,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803833895438"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787021462915/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.140/type/3/sig/OzG3eRr0NXI/ct/8/urls/185.226.55.17%3B185.180.203.98/clientType/0/zs/43/id/2598197463566/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1004,7 +1053,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803300694542"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd347.okcdn.ru/?expires=1787021465689&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.40&type=0&sig=yU_Ze8MB9MM&ct=0&urls=176.112.172.118&clientType=0&zs=43&id=7390110616069"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1024,7 +1074,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803300629006"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1787021467659&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.139&type=1&sig=Opb7kS4bN5E&ct=0&urls=176.112.172.40%3B178.237.23.21&clientType=0&zs=43&id=7744013011584"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1044,7 +1095,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803300563470"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1787021469667/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.142.206.135/type/2/sig/KRG17i13rEY/ct/8/urls/95.163.35.1%3B178.237.23.22/clientType/0/zs/43/id/2599409617422/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1064,7 +1116,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3803300497934"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787021472747/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.130/type/1/sig/fjiWjnPYZu4/ct/8/urls/95.163.35.12%3B178.237.23.18/clientType/0/zs/43/id/7390278191621/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1084,7 +1137,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802777192974"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787021475472/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/PVEUAJJpL0M/ct/8/urls/185.226.55.32%3B95.163.35.80/clientType/0/zs/43/id/2599562643982/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1104,7 +1158,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802777127438"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1787021478295&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.82&type=1&sig=Wy7qjdPWy68&ct=0&urls=185.226.55.21&clientType=0&zs=43&id=8740699441792"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1124,7 +1179,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802777061902"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd656.okcdn.ru/expires/1787021480204/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/178.237.23.7/type/2/sig/3Gz5vC50mtA/ct/8/urls/176.112.172.120/clientType/0/zs/43/id/2599536691726/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1144,7 +1200,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802776930830"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/?expires=1787021482854&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.136&type=1&sig=qFuH0sxtLUI&ct=0&urls=185.226.55.108%3B178.237.23.15&clientType=0&zs=43&id=7390245227013"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1164,7 +1221,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3802776799758"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd701.okcdn.ru/expires/1787021485666/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.17/type/3/sig/5rjCgNhE8WI/ct/8/urls/185.226.55.97/clientType/0/zs/43/id/2613802961422/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1184,7 +1242,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3799951673870"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787021488204/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.139/type/1/sig/M1dCxcONqcQ/ct/8/urls/176.112.172.126%3B185.180.203.99/clientType/0/zs/43/id/2599638338062/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1204,7 +1263,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3799951608334"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/?expires=1787021491086&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.141&type=0&sig=xf0bYcmwRB0&ct=0&urls=185.226.55.21%3B178.237.23.19&clientType=0&zs=43&id=7390209903109"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1224,7 +1284,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3799653288462"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787021493031/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.131/type/1/sig/AudUhyWLMWw/ct/8/urls/95.163.35.13%3B185.226.55.39/clientType/0/zs/43/id/2610238261774/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1246,7 +1307,8 @@
       "https://ok.ru/video/3803300497934",
       "https://ok.ru/video/3803300497934",
       "https://ok.ru/video/3813363485198"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787021496252/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.130/type/1/sig/NXbuo3h7oFE/ct/8/urls/95.163.35.12%3B178.237.23.18/clientType/0/zs/43/id/7390278191621/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1266,7 +1328,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3813363550734"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd516.okcdn.ru/expires/1787021498676/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.26/type/5/sig/oW6d2kxD2cE/ct/8/urls/95.163.35.57/clientType/0/zs/43/id/2590959536654/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1286,7 +1349,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3813363419662"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd241.okcdn.ru/expires/1787021501634/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.71/type/3/sig/usL7fg5jpY0/ct/8/urls/176.112.172.102/clientType/0/zs/43/id/2591009802766/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1306,7 +1370,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1424138570373"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd507.okcdn.ru/expires/1787021505233/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.226.55.17/type/1/sig/-Oty3w6G80k/ct/8/urls/185.180.203.18/clientType/0/zs/43/id/680650279557/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1326,7 +1391,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1424139881093"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd734.okcdn.ru/?expires=1787021508060&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.11&type=1&sig=qg4M5C_otCM&ct=0&urls=178.237.23.29&clientType=0&zs=43&id=7021584321184"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1346,7 +1412,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1718520318593"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd365.okcdn.ru/expires/1787021510386/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.91/type/1/sig/9PTsEu8D1Vg/ct/8/urls/185.226.53.31/clientType/0/zs/43/id/763394722433/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1366,7 +1433,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16108614126104"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd687.okcdn.ru/?expires=1787021512981&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.3&type=3&sig=M7UjEZw93o0&ct=0&urls=178.237.23.41&clientType=0&zs=43&id=17778309204504"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1386,7 +1454,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16108592761368"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd303.okcdn.ru/?expires=1787021516844&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.50&type=3&sig=pzPDJWv2XHY&ct=0&urls=176.112.172.120&clientType=0&zs=43&id=17778272307736"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1406,7 +1475,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16108629854744"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd582.okcdn.ru/expires/1787021520881/clientType/0/srcIp/52.161.59.3/type/2/mid/16108629854744/id/17778332207640/ms/185.226.55.103/zs/43/srcAg/CHROME/urls/178.237.29.131/oq/0/pr/10/ct/28/sig/o5beeKty9Dw/ondemand/CJiUtLm1hQQSFAiYlLS5tYUEEJiUtLm1hQQYAiABGhQImJS0ubWFBBCYlLS5tYUEGAIgAiAEKAMwAzgCeK8B3ZnBDue8rVQ/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1426,7 +1496,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16108642372120"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd341.okcdn.ru/?expires=1787021524666&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.80&type=3&sig=oMLhaL0iAEk&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=17778349771288"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1446,7 +1517,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10921938913875"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd728.okcdn.ru/expires/1787021528845/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.5/type/5/sig/5eY-It8tpJQ/ct/8/urls/185.180.203.79/clientType/0/zs/43/id/8371361090259/video/"
   },
   {
     "CATEGORIA": "DORAEMON",
@@ -1466,7 +1538,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10004698368521"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd575.okcdn.ru/?expires=1787021531458&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.29.9&type=3&sig=D-0Nf2JwKlg&ct=0&urls=176.112.172.103&clientType=0&zs=43&id=9287792724489"
   },
   {
     "CATEGORIA": "RANMA_OVAS",
@@ -1486,7 +1559,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16108742642200"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd580.okcdn.ru/?expires=1787021535789&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.101&type=3&sig=d0WfQrEtKhM&ct=0&urls=95.163.35.113&clientType=0&zs=43&id=17778516757016"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1506,7 +1580,8 @@
     "TRAILER": "https://youtube.com/watch?v=tLfQb_0gsK8",
     "URLS_OKRU": [
       "https://ok.ru/video/9783974824645"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd352.okcdn.ru/?expires=1787021539885&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.29.129&type=3&subId=8961197738693&sig=A8_5Ob0CgEo&ct=0&urls=185.180.203.105&clientType=0&zs=43&id=8961197738693"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1526,7 +1601,8 @@
     "TRAILER": "https://youtube.com/watch?v=AyF3ttDC8H0",
     "URLS_OKRU": [
       "https://ok.ru/video/9783974759109"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd668.okcdn.ru/?expires=1787021544187&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.19&type=3&subId=8961197083333&sig=JERRAxVJoL8&ct=0&urls=185.226.55.102&clientType=0&zs=43&id=8961197083333"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1546,7 +1622,8 @@
     "TRAILER": "https://youtube.com/watch?v=LucX4_ZkAuU",
     "URLS_OKRU": [
       "https://ok.ru/video/9783974693573"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd703.okcdn.ru/?expires=1787021550149&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.19&type=3&subId=8961196100293&sig=D_K9tjqiOF4&ct=0&urls=95.163.35.14&clientType=0&zs=43&id=8961196100293"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1566,7 +1643,8 @@
     "TRAILER": "https://youtube.com/watch?v=nhCmDbJAPDg",
     "URLS_OKRU": [
       "https://ok.ru/video/9783974496965"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd677.okcdn.ru/?expires=1787021554694&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.28&type=3&subId=8961192168133&sig=_zIOdujfQYk&ct=0&urls=185.180.203.55&clientType=0&zs=43&id=8961192168133"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1586,7 +1664,8 @@
     "TRAILER": "https://youtube.com/watch?v=H6D78y9Edmk",
     "URLS_OKRU": [
       "https://ok.ru/video/9783974431429"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd522.okcdn.ru/?expires=1787021558918&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.32&type=3&subId=8961190988485&sig=P7Ha5B21x9U&ct=0&urls=176.112.172.10&clientType=0&zs=43&id=8961190988485"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1606,7 +1685,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783965452997"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd640.okcdn.ru/?expires=1787021563552&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.37&type=3&subId=8961186532037&sig=tMpDzFa5aOM&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=8961186532037"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1626,7 +1706,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783965321925"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd357.okcdn.ru/?expires=1787021568137&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.29.134&type=3&subId=8961184697029&sig=5ijhoM3t9C4&ct=0&urls=95.163.35.65&clientType=0&zs=43&id=8961184697029"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1646,7 +1727,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783965190853"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd365.okcdn.ru/?expires=1787021572252&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.91&type=3&subId=8961181944517&sig=dDW4Fi4BnRM&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=8961181944517"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1666,7 +1748,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783965125317"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd759.okcdn.ru/?expires=1787021576008&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.36&type=3&subId=8961181354693&sig=9mSwBnk8aWQ&ct=0&urls=176.112.172.99&clientType=0&zs=43&id=8961181354693"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1686,7 +1769,8 @@
     "TRAILER": "https://youtube.com/watch?v=12Ok6bbV7rQ",
     "URLS_OKRU": [
       "https://ok.ru/video/9783965059781"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd706.okcdn.ru/?expires=1787021580001&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.22&type=3&subId=8961179978437&sig=j5NmyPTVBFo&ct=0&urls=185.180.203.23&clientType=0&zs=43&id=8961179978437"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1706,7 +1790,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783964928709"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd677.okcdn.ru/?expires=1787021584043&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.28&type=3&subId=8961177881285&sig=lITg07lMO6M&ct=0&urls=178.237.29.66&clientType=0&zs=43&id=8961177881285"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1726,7 +1811,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783958178501"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd646.okcdn.ru/?expires=1787021587610&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.43&type=3&subId=8961176505029&sig=ftoSG457-6A&ct=0&urls=185.226.55.49&clientType=0&zs=43&id=8961176505029"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1746,7 +1832,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783958112965"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd736.okcdn.ru/?expires=1787021591367&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.13&type=3&subId=8961175653061&sig=rRrGj0YC01g&ct=0&urls=185.226.55.53&clientType=0&zs=43&id=8961175653061"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1766,7 +1853,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783958047429"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd538.okcdn.ru/?expires=1787021595929&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.48&type=3&subId=8961174342341&sig=E-HtVD1moNk&ct=0&urls=95.163.35.116&clientType=0&zs=43&id=8961174342341"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1786,7 +1874,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783957916357"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd507.okcdn.ru/?expires=1787021600436&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.17&type=3&subId=8961171458757&sig=2mgEZfIMwQY&ct=0&urls=178.237.23.36&clientType=0&zs=43&id=8961171458757"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1806,7 +1895,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9783957785285"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd560.okcdn.ru/?expires=1787021604029&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.94&type=3&subId=8961170082501&sig=5g1DvKLxLYQ&ct=0&urls=178.237.23.4&clientType=0&zs=43&id=8961170082501"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1826,7 +1916,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9779021744837"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd436.okcdn.ru/?expires=1787021607723&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.56&type=3&subId=8953907907269&sig=Wi01TzYQLj0&ct=0&urls=95.163.35.119&clientType=0&zs=43&id=8953907907269"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1846,7 +1937,8 @@
     "TRAILER": "https://youtube.com/watch?v=Cfh5HliruZw",
     "URLS_OKRU": [
       "https://ok.ru/video/9779010669253"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd446.okcdn.ru/?expires=1787021611275&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.91&type=3&subId=8953893096133&sig=g0TZ7wNVaP4&ct=0&urls=185.180.203.94&clientType=0&zs=43&id=8953893096133"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1866,7 +1958,8 @@
     "TRAILER": "https://youtube.com/watch?v=UWj03bri-Bk",
     "URLS_OKRU": [
       "https://ok.ru/video/9779010603717"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd517.okcdn.ru/?expires=1787021614748&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.27&type=3&subId=8953891523269&sig=jr4CDY4FGgw&ct=0&urls=176.112.172.97&clientType=0&zs=43&id=8953891523269"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1886,7 +1979,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9779010538181"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd348.okcdn.ru/?expires=1787021618779&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.79&type=3&subId=8953889819333&sig=v059bW8CsM8&ct=0&urls=178.237.29.2&clientType=0&zs=43&id=8953889819333"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1906,7 +2000,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9778996775621"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd484.okcdn.ru/?expires=1787021622593&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.110&type=3&subId=8953877957317&sig=hkn1__EBiYY&ct=0&urls=176.112.172.41&clientType=0&zs=43&id=8953877957317"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1926,7 +2021,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9778996579013"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd594.okcdn.ru/?expires=1787021625955&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.114&type=3&subId=8953872255685&sig=BrTvO3JAFeo&ct=0&urls=185.180.203.62&clientType=0&zs=43&id=8953872255685"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -1946,7 +2042,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9778978556613"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd633.okcdn.ru/?expires=1787021629516&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.30&type=3&subId=8953849645765&sig=oZOkHgEHTU0&ct=0&urls=178.237.23.108&clientType=0&zs=43&id=8953849645765"
   },
   {
     "CATEGORIA": "BALTO",
@@ -1966,7 +2063,8 @@
     "TRAILER": "https://youtube.com/watch?v=Qrk3sqy1wjo",
     "URLS_OKRU": [
       "https://ok.ru/video/9033312242299"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd338.okcdn.ru/expires/1787021633723/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.77/type/3/sig/RjjdESQFmJs/ct/8/urls/95.163.35.6/clientType/0/zs/43/id/7846414322299/video/"
   },
   {
     "CATEGORIA": "BALTO",
@@ -1986,7 +2084,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9033310276219"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1787021636430/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.136/type/3/sig/U5p2VQYElGM/ct/8/urls/176.112.172.54%3B178.237.23.2/clientType/0/zs/43/id/7846410717819/video/"
   },
   {
     "CATEGORIA": "BALTO",
@@ -2006,7 +2105,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9033311455867"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1787021639289/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.10/type/3/sig/9JuWbFr0ezY/ct/8/urls/176.112.172.23/clientType/0/zs/43/id/7846412225147/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -2026,7 +2126,8 @@
     "TRAILER": "https://youtube.com/watch?v=ksOiRS2YO1U",
     "URLS_OKRU": [
       "https://ok.ru/video/8881050618491"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd301.okcdn.ru/expires/1787021642010/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.51/type/3/sig/bo0bGMEz6Do/ct/8/urls/178.237.23.15/clientType/0/zs/43/id/7595048569467/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -2046,7 +2147,8 @@
     "TRAILER": "https://youtube.com/watch?v=6wcj_aJ15gI",
     "URLS_OKRU": [
       "https://ok.ru/video/8881030695547"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1787021644642/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.135/type/3/sig/q1pOZt1UqDc/ct/8/urls/178.237.29.193%3B95.163.35.114/clientType/0/zs/43/id/7595034479227/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -2066,7 +2168,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8881214655099"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd760.okcdn.ru/expires/1787021647605/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.37/type/3/sig/sft_RWx25WI/ct/8/urls/185.180.203.77/clientType/0/zs/43/id/7595196353147/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2086,7 +2189,8 @@
     "TRAILER": "https://youtube.com/watch?v=In612Pf_M7E",
     "URLS_OKRU": [
       "https://ok.ru/video/6895676557990"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd305.okcdn.ru/expires/1787021650264/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.61/type/5/sig/zYevAYklZw0/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/5471409605286/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2106,7 +2210,8 @@
     "TRAILER": "https://youtube.com/watch?v=TGKc4wbLQvM",
     "URLS_OKRU": [
       "https://ok.ru/video/6911120640678"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1787021652878/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.0/type/5/sig/kTm83cBnVLw/ct/8/urls/185.226.55.101/clientType/0/zs/43/id/5493666941606/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2126,7 +2231,8 @@
     "TRAILER": "https://youtube.com/watch?v=SYIuY9t9ShQ",
     "URLS_OKRU": [
       "https://ok.ru/video/4027916028582"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd552.okcdn.ru/expires/1787021656104/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.62/type/3/sig/w1A2Bq2ygK4/ct/8/urls/95.163.35.31/clientType/0/zs/43/id/2570171976358/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2146,7 +2252,8 @@
     "TRAILER": "https://youtube.com/watch?v=PbBz_vl_-Cs",
     "URLS_OKRU": [
       "https://ok.ru/video/3986007919270"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd478.okcdn.ru/expires/1787021659692/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.93/type/3/sig/zM96TVPMLrg/ct/8/urls/178.237.23.7/clientType/0/zs/43/id/2517720763046/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2166,7 +2273,8 @@
     "TRAILER": "https://youtube.com/watch?v=hOlu4b8MCX8",
     "URLS_OKRU": [
       "https://ok.ru/video/3153250552486"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd506.okcdn.ru/expires/1787021662608/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.16/type/5/sig/yqYnzbgOci4/ct/8/urls/185.180.203.24/clientType/0/zs/43/id/1694348413606/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2186,7 +2294,8 @@
     "TRAILER": "https://youtube.com/watch?v=nYPLqekvQF4",
     "URLS_OKRU": [
       "https://ok.ru/video/3144712063654"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd527.okcdn.ru/expires/1787021665359/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.37/type/5/sig/j2v-RqLXkxM/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1685858880166/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2206,7 +2315,8 @@
     "TRAILER": "https://youtube.com/watch?v=3Ab_aQ37Alw",
     "URLS_OKRU": [
       "https://ok.ru/video/3138093845158"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd646.okcdn.ru/expires/1787021668609/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.43/type/5/sig/k8cdmULYYQU/ct/8/urls/178.237.23.32/clientType/0/zs/43/id/1679077411494/video/"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2226,7 +2336,8 @@
     "TRAILER": "https://youtube.com/watch?v=dxkthql9mVo",
     "URLS_OKRU": [
       "https://ok.ru/video/3052291623590"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1787021672121/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.127/type/3/sig/5J0C_jicue4/ct/8/urls/185.226.55.122/clientType/0/zs/43/id/1581048203942/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2246,7 +2357,8 @@
     "TRAILER": "https://youtube.com/watch?v=Pw7gk1lFvcQ",
     "URLS_OKRU": [
       "https://ok.ru/video/2989728074406"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd464.okcdn.ru/expires/1787021675291/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.99/type/3/sig/7wUrhb3NPhU/ct/8/urls/95.163.35.85/clientType/0/zs/43/id/1508327033510/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2266,7 +2378,8 @@
     "TRAILER": "https://youtube.com/watch?v=yZs8XeWLk-I",
     "URLS_OKRU": [
       "https://ok.ru/video/2969246829222"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd381.okcdn.ru/expires/1787021678041/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.86/type/3/sig/iit6fydQ3mA/ct/8/urls/95.163.35.57/clientType/0/zs/43/id/1210837437071/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2286,7 +2399,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2948653583014"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd653.okcdn.ru/expires/1787021680961/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.4/type/3/sig/ANz964hmfC4/ct/8/urls/95.163.35.98/clientType/0/zs/43/id/1458805213862/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2306,7 +2420,8 @@
     "TRAILER": "https://youtube.com/watch?v=gWFJKaU_Hco",
     "URLS_OKRU": [
       "https://ok.ru/video/2944042994342"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd438.okcdn.ru/expires/1787021684305/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.40/type/3/sig/je8ltGM50kE/ct/8/urls/185.180.203.21/clientType/0/zs/43/id/1453341805222/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2326,7 +2441,8 @@
     "TRAILER": "https://youtube.com/watch?v=5Ta8IVa8-3k",
     "URLS_OKRU": [
       "https://ok.ru/video/2940296694438"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd324.okcdn.ru/expires/1787021688327/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.53.33/type/3/sig/nijb4spdD3c/ct/8/urls/178.237.29.129/clientType/0/zs/43/id/1448755464870/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2346,7 +2462,8 @@
     "TRAILER": "https://youtube.com/watch?v=7lLH9PDkRrU",
     "URLS_OKRU": [
       "https://ok.ru/video/2816119605926"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd263.okcdn.ru/expires/1787021691114/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.44/type/2/sig/RNKZJ5A797s/ct/8/urls/185.180.203.96/clientType/0/zs/43/id/1300863191718/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2366,7 +2483,8 @@
     "TRAILER": "https://youtube.com/watch?v=6Lk_FpEPFpg",
     "URLS_OKRU": [
       "https://ok.ru/video/2801100327590"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd604.okcdn.ru/expires/1787021693758/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.127/type/2/sig/Z1OcQ_FCFGg/ct/8/urls/178.237.23.5/clientType/0/zs/43/id/1282662861478/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2386,7 +2504,8 @@
     "TRAILER": "https://youtube.com/watch?v=uxhgaT_gSk4",
     "URLS_OKRU": [
       "https://ok.ru/video/2799846034086"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd451.okcdn.ru/expires/1787021696789/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.55/type/2/sig/q6EeJGx45XU/ct/8/urls/178.237.23.8/clientType/0/zs/43/id/1281532889766/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2406,7 +2525,8 @@
     "TRAILER": "https://youtube.com/watch?v=4Kx2AT-JHNY",
     "URLS_OKRU": [
       "https://ok.ru/video/2763282647718"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd236.okcdn.ru/expires/1787021699812/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.66/type/2/sig/zOTRQWDrsvE/ct/8/urls/178.237.23.37/clientType/0/zs/43/id/1238243543718/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2426,7 +2546,8 @@
     "TRAILER": "https://youtube.com/watch?v=Vbp_pLJqPgQ",
     "URLS_OKRU": [
       "https://ok.ru/video/2746024331942"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd674.okcdn.ru/expires/1787021703084/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.25/type/3/sig/FiCFH4dahB0/ct/8/urls/176.112.172.84/clientType/0/zs/43/id/1218528742054/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2446,7 +2567,8 @@
     "TRAILER": "https://youtube.com/watch?v=AGsza6cnPi8",
     "URLS_OKRU": [
       "https://ok.ru/video/2732530928294"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd571.okcdn.ru/expires/1787021706705/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/178.237.23.83/type/2/sig/Xuf9-8mn94k/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/1204102564518/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2466,7 +2588,8 @@
     "TRAILER": "https://youtube.com/watch?v=HCAf1sSDNvU",
     "URLS_OKRU": [
       "https://ok.ru/video/2711346678438"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd725.okcdn.ru/expires/1787021709304/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.2/type/1/sig/9XDzTWisqnk/ct/8/urls/185.226.55.45/clientType/0/zs/43/id/1180059110054/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2486,7 +2609,8 @@
     "TRAILER": "https://youtube.com/watch?v=VHQxInGaiP8",
     "URLS_OKRU": [
       "https://ok.ru/video/2698022619814"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd474.okcdn.ru/expires/1787021712074/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.123/type/2/sig/hKfiC_7ZzzA/ct/8/urls/185.226.55.25/clientType/0/zs/43/id/1164497062566/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2506,7 +2630,8 @@
     "TRAILER": "https://youtube.com/watch?v=iCFg-td_BTw",
     "URLS_OKRU": [
       "https://ok.ru/video/2666392193702"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd329.okcdn.ru/expires/1787021715559/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.76/type/1/sig/yKtoXD9PIAg/ct/8/urls/185.226.55.21/clientType/0/zs/43/id/1128900332198/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2526,7 +2651,8 @@
     "TRAILER": "https://youtube.com/watch?v=quTOKfO-u9M",
     "URLS_OKRU": [
       "https://ok.ru/video/2648807246502"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd702.okcdn.ru/expires/1787021718881/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.18/type/2/sig/SpaWcTFt0_Q/ct/8/urls/95.163.35.79/clientType/0/zs/43/id/1113133484710/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2546,7 +2672,8 @@
     "TRAILER": "https://youtube.com/watch?v=MGSpVrW-ktQ",
     "URLS_OKRU": [
       "https://ok.ru/video/2642101013158"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd713.okcdn.ru/expires/1787021723104/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.29/type/1/sig/esHaUbgShMI/ct/8/urls/95.163.35.9/clientType/0/zs/43/id/1109065796262/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2566,7 +2693,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2622124395174"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd594.okcdn.ru/expires/1787021727405/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.226.55.114/type/1/sig/nBrzIn5mL6g/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/1097162623654/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2586,7 +2714,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2608070396582"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd650.okcdn.ru/expires/1787021730618/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.1/type/1/sig/Js7EJiuiFLk/ct/8/urls/176.112.172.76/clientType/0/zs/43/id/1088913672870/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2606,7 +2735,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2601469414054"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd508.okcdn.ru/expires/1787021734046/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.226.55.18/type/1/sig/W32OsAUYUyc/ct/8/urls/176.112.172.31/clientType/0/zs/43/id/1085401074342/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2626,7 +2756,8 @@
     "TRAILER": "https://youtube.com/watch?v=E613r-4Zspw",
     "URLS_OKRU": [
       "https://ok.ru/video/2586129533606"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd741.okcdn.ru/expires/1787021736655/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.18/type/1/sig/eHRvRdDKzVk/ct/8/urls/178.237.23.8/clientType/0/zs/43/id/1075538561702/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2646,7 +2777,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2566339300006"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787021739210/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.137/type/1/sig/-9xVpNajWCc/ct/8/urls/95.163.35.83%3B178.237.23.5/clientType/0/zs/43/id/1063214582438/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2666,7 +2798,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2534942575270"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd568.okcdn.ru/expires/1787021742479/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/178.237.23.80/type/2/sig/Y2DiGxfOU6E/ct/8/urls/178.237.29.11/clientType/0/zs/43/id/1043165416102/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2686,7 +2819,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2507156294310"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd473.okcdn.ru/expires/1787021745915/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.122/type/1/sig/mknfUVUVE9w/ct/8/urls/176.112.172.94/clientType/0/zs/43/id/1025289423526/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2706,7 +2840,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2476079844006"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1787021749129/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.8/type/1/sig/S56fJPpQj1U/ct/8/urls/185.226.55.104/clientType/0/zs/43/id/1002712599206/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2726,7 +2861,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2452369377958"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd202.okcdn.ru/expires/1787021752526/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.44/type/1/sig/4rw13O4yZX8/ct/8/urls/176.112.172.15/clientType/0/zs/43/id/986774047398/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2746,7 +2882,8 @@
     "TRAILER": "https://youtube.com/watch?v=xrcqHMbRZX4",
     "URLS_OKRU": [
       "https://ok.ru/video/2431337040550"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd752.okcdn.ru/expires/1787021755183/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.29/type/2/sig/ltCSCzcbjg8/ct/8/urls/185.180.203.61/clientType/0/zs/43/id/971336845990/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2766,7 +2903,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2407365479078"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd627.okcdn.ru/expires/1787021757859/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.24/type/1/sig/zD7sSBDtXt8/ct/8/urls/178.237.29.132/clientType/0/zs/43/id/954138167974/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2786,7 +2924,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2405271079590"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd671.okcdn.ru/expires/1787021760485/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.22/type/1/sig/QsgZb0wpNmM/ct/8/urls/185.226.55.30/clientType/0/zs/43/id/952771873446/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2806,7 +2945,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2388379896486"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd539.okcdn.ru/expires/1787021763273/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.226.55.49/type/1/sig/NE_enHoXhTs/ct/8/urls/176.112.172.122/clientType/0/zs/43/id/941929007782/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2826,7 +2966,8 @@
     "TRAILER": "https://youtube.com/watch?v=SAhb6rBu440",
     "URLS_OKRU": [
       "https://ok.ru/video/2370676591270"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787021765894/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.140/type/1/sig/XaMMRYh2FPM/ct/8/urls/185.180.203.38%3B95.163.35.30/clientType/0/zs/43/id/930705377958/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2846,7 +2987,8 @@
     "TRAILER": "https://youtube.com/watch?v=lZSQZ9VM18w",
     "URLS_OKRU": [
       "https://ok.ru/video/2348282219174"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd705.okcdn.ru/expires/1787021769309/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.21/type/1/sig/nwY-l4TBrEI/ct/8/urls/185.226.55.23/clientType/0/zs/43/id/916036061862/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2866,7 +3008,8 @@
     "TRAILER": "https://youtube.com/watch?v=ZhjY7ANFD8o",
     "URLS_OKRU": [
       "https://ok.ru/video/2311933397670"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd651.okcdn.ru/expires/1787021771989/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.2/type/1/sig/II2CgUtFA0E/ct/8/urls/95.163.35.0/clientType/0/zs/43/id/890647939750/video/"
   },
   {
     "CATEGORIA": "BARBIE",
@@ -2886,7 +3029,8 @@
     "TRAILER": "https://youtube.com/watch?v=-v24krkTZ88",
     "URLS_OKRU": [
       "https://ok.ru/video/2296948853414"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd569.okcdn.ru/expires/1787021774685/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.81/type/1/sig/D50dsUdg_dM/ct/8/urls/176.112.172.41/clientType/0/zs/43/id/880503753382/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -2906,7 +3050,8 @@
     "TRAILER": "https://youtube.com/watch?v=kLZ7PGp7ZL0",
     "URLS_OKRU": [
       "https://ok.ru/video/16524006525536"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1787021777457/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/mid/16524006525536/type/5/subId/19981389990496/sig/B8MjHAEU7i4/ct/8/du/5991611/urls/95.163.35.125%3B185.226.55.36/clientType/0/asubs/y/zs/43/id/19981389990496/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -2926,7 +3071,8 @@
     "TRAILER": "https://youtube.com/watch?v=Vn1uwEiTfMM",
     "URLS_OKRU": [
       "https://ok.ru/video/4770663238179"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787021780040/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.132/type/5/sig/rgVzhgAdj-s/ct/8/urls/176.112.172.22%3B178.237.23.123/clientType/0/zs/43/id/4110739442211/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -2946,7 +3092,8 @@
     "TRAILER": "https://youtube.com/watch?v=X2UbAb61zG4",
     "URLS_OKRU": [
       "https://ok.ru/video/7444106381913"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd474.okcdn.ru/expires/1787021782898/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.123/type/5/sig/8Q8GP3Gey2I/ct/8/urls/176.112.172.11/clientType/0/zs/43/id/6514088544857/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -2966,7 +3113,8 @@
     "TRAILER": "https://youtube.com/watch?v=ficqfF525vk",
     "URLS_OKRU": [
       "https://ok.ru/video/8812865915536"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/?expires=1787021786502&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.135&type=5&subId=7104736397968&sig=0NsfyeTwm5M&ct=0&urls=176.112.172.9%3B185.226.55.103&clientType=0&zs=43&id=7104736397968"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -2986,7 +3134,8 @@
     "TRAILER": "https://youtube.com/watch?v=NdnacU5sbcE",
     "URLS_OKRU": [
       "https://ok.ru/video/8815346649744"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021790314/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.141/type/5/sig/F-yyjMYa3cI/ct/8/urls/178.237.23.104%3B185.180.203.67/clientType/0/zs/43/id/9164547033744/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3006,7 +3155,8 @@
     "TRAILER": "https://youtube.com/watch?v=3iy0pE1FBkc",
     "URLS_OKRU": [
       "https://ok.ru/video/8812859427472"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021793367/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.141/type/5/sig/ccjV9VY1oTY/ct/8/urls/185.226.55.100%3B176.112.172.0/clientType/0/zs/43/id/8164398598800/video/"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -3026,7 +3176,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6989191187061"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd567.okcdn.ru/?expires=1787021797402&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.79&type=5&sig=AUfDbFeA-Lk&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=5957255957109"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -3046,7 +3197,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6989304564341"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1787021801783&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.82&type=3&sig=x4G8PwXw42U&ct=0&urls=178.237.23.41&clientType=0&zs=43&id=5957341416053"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -3066,7 +3218,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6989331827317"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1787021806161&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.33&type=5&sig=Epx44U0KWPg&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=5957421304437"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -3086,7 +3239,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6989373770357"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1787021810231&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.0&type=5&sig=Bap1PLZgZGU&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -3106,7 +3260,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169706642"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd602.okcdn.ru/expires/1787021813775/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.125/type/5/sig/i_W0vqpZGWI/ct/8/urls/176.112.172.84/clientType/0/zs/43/id/1372388002450/video/"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -3126,7 +3281,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169641106"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd607.okcdn.ru/expires/1787021816907/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.38/type/5/sig/JuXRC2BXUdA/ct/8/urls/95.163.35.18/clientType/0/zs/43/id/1372266105490/video/"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -3146,7 +3302,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169837714"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd621.okcdn.ru/expires/1787021819655/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.20/type/5/sig/UpRGYGPSirM/ct/8/urls/178.237.23.0/clientType/0/zs/43/id/1372669086354/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3166,7 +3323,8 @@
     "TRAILER": "https://youtube.com/watch?v=Q_QPxJQcSkc",
     "URLS_OKRU": [
       "https://ok.ru/video/5681475095253"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd629.okcdn.ru/?expires=1787021823104&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.26&type=3&sig=6DmqZbejJjY&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=4760951786197"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3186,7 +3344,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6330665274069"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787021826648/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/fAm7vqizXhE/ct/8/urls/176.112.172.121%3B95.163.35.43/clientType/0/zs/43/id/13284078717653/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3206,7 +3365,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5729921141461"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd299.okcdn.ru/expires/1787021829880/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.53/type/3/sig/HOLvjNjJY7g/ct/8/urls/176.112.172.20/clientType/0/zs/43/id/898592082548/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3226,7 +3386,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6829586909893"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd379.okcdn.ru/expires/1787021832522/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.84/type/1/sig/-3gF_XmUdlk/ct/8/urls/185.226.55.13/clientType/0/zs/43/id/6080151096005/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3246,7 +3407,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/12453367515845"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd504.okcdn.ru/expires/1787021836244/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.14/type/5/sig/xuVopOAZgaI/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/7646456384221/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3266,7 +3428,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6999825713708"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd290.okcdn.ru/?expires=1787021839412&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.65&type=3&subId=5978054855212&sig=IT8dC2pCtDU&ct=0&urls=95.163.35.19&clientType=0&zs=43&id=5978054855212"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3286,7 +3449,8 @@
     "TRAILER": "https://youtube.com/watch?v=emdBtZDqTlQ",
     "URLS_OKRU": [
       "https://ok.ru/video/9937357966062"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd713.okcdn.ru/expires/1787021843552/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.29/type/5/sig/cKQ8wZFqa3E/ct/8/urls/95.163.35.71/clientType/0/zs/43/id/8690673453806/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -3306,7 +3470,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15070704241390"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787021846085/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-211585843/ms/95.142.206.139/type/7/sig/EXHbXf8GcVU/ct/8/urls/95.163.35.16%3B176.112.172.43/clientType/0/zs/43/id/16715735960302/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3326,7 +3491,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10074531302126"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1787021848852/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.138/type/5/sig/QOhmUmdqtLI/ct/8/urls/95.163.35.37%3B178.237.23.75/clientType/0/zs/43/id/8882940087022/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3346,7 +3512,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/12257566984942"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd574.okcdn.ru/expires/1787021851358/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.29.8/type/7/sig/Qch6afEa1Fs/ct/8/urls/176.112.172.16/clientType/0/zs/43/id/11689052474094/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3366,7 +3533,8 @@
     "TRAILER": "https://youtube.com/watch?v=4XkHPphBN_Q",
     "URLS_OKRU": [
       "https://ok.ru/video/10426038487790"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1787021853968/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.138/type/7/sig/fnWhzm5NiPI/ct/8/urls/95.163.35.37%3B185.180.203.29/clientType/0/zs/43/id/9368143661806/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3386,7 +3554,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8517949131359"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd728.okcdn.ru/expires/1787021856610/clientType/0/srcIp/52.161.59.3/type/2/mid/8517949131359/id/7311169161823/ms/95.163.35.5/zs/43/srcAg/CHROME/urls/178.237.23.9/oq/0/pr/10/ct/28/sig/CGF6ALNldYY/ondemand/CN-UkJ3k1AESFAjflJCd5NQBEN-UkJ3k1AEYAiABGhQI35SQneTUARDflJCd5NQBGAIgAiAEKAMwAzgCeOgNO4T2RDqvI7k/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3406,7 +3575,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10777945049610"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd544.okcdn.ru/expires/1787021860207/clientType/0/srcIp/52.161.59.3/type/2/mid/10777945049610/id/9889387645450/ms/185.226.55.54/zs/43/srcAg/CHROME/urls/95.163.35.115/oq/0/pr/10/ct/28/sig/kGsKk-YzTzE/ondemand/CIqUwOvonwISFAiKlMDr6J8CEIqUwOvonwIYAiABGhQIipTA6-ifAhCKlMDr6J8CGAIgAiAEKAMwAzgCeJ4F9qk12mgqHsE/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3426,7 +3596,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4199574604393"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd641.okcdn.ru/expires/1787021864196/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.38/type/5/sig/MEstT4GdurE/ct/8/urls/176.112.172.1/clientType/0/zs/43/id/6285940623977/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3446,7 +3617,8 @@
     "TRAILER": "https://youtube.com/watch?v=y0BcpQhjVDI",
     "URLS_OKRU": [
       "https://ok.ru/video/5111799155305"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd730.okcdn.ru/expires/1787021866756/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.7/type/3/sig/FeOr6MXVn-I/ct/8/urls/185.180.203.14/clientType/0/zs/43/id/6068149619305/video/"
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -3466,7 +3638,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5111228074601"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1787021869329&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.137&type=3&sig=pTD9qHKL9Lc&ct=0&urls=185.226.55.59%3B185.180.203.29&clientType=0&zs=43&id=4440738040425"
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -3486,7 +3659,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5111154674281"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/?expires=1787021873391&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.132&type=3&sig=Z-_PXkguO08&ct=0&urls=178.237.29.129%3B185.180.203.66&clientType=0&zs=43&id=4440642751081"
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -3506,7 +3680,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5110948760169"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd691.okcdn.ru/expires/1787021877193/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.7/type/3/sig/qGSfNm0Qweg/ct/8/urls/185.226.55.32/clientType/0/zs/43/id/9437710060137/video/"
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -3526,7 +3701,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5110819523177"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1787021880923&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=M55ITGXlp6o&ct=0&urls=185.180.203.61%3B95.163.35.1&clientType=0&zs=43&id=4440281975401"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3546,7 +3722,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4252164819561"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd626.okcdn.ru/expires/1787021884398/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.23/type/5/sig/xFdnJFMGiuE/ct/8/urls/95.163.35.86/clientType/0/zs/43/id/1924168157801/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3566,7 +3743,8 @@
     "TRAILER": "https://youtube.com/watch?v=65jEdJHko-M",
     "URLS_OKRU": [
       "https://ok.ru/video/4251824360041"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3586,7 +3764,8 @@
     "TRAILER": "https://youtube.com/watch?v=Sqpz9D_Ri4s",
     "URLS_OKRU": [
       "https://ok.ru/video/3189912308390"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1787021890437/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/yQ40h0305KE/ct/8/urls/178.237.23.8%3B185.226.55.35/clientType/0/zs/43/id/1732540762790/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3606,7 +3785,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4202679700073"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd556.okcdn.ru/?expires=1787021893236&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.66&type=5&sig=VfA39sme-V0&ct=0&urls=176.112.172.86&clientType=0&zs=43&id=3281043786345"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3626,7 +3806,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4202548628073"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd433.okcdn.ru/?expires=1787021898010&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.53&type=5&sig=yAIM4LOs7fc&ct=0&urls=185.226.55.105&clientType=0&zs=43&id=3280875424361"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3646,7 +3827,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4199136758377"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd674.okcdn.ru/?expires=1787021901714&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.25&type=5&sig=82Wxh9jqFv0&ct=0&urls=185.180.203.68&clientType=0&zs=43&id=3277036849769"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3666,7 +3848,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4196908337769"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd303.okcdn.ru/?expires=1787021905477&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.50&type=5&sig=bsTf40rcpPo&ct=0&urls=95.163.35.36&clientType=0&zs=43&id=3274453748329"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3686,7 +3869,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4196894640745"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd375.okcdn.ru/?expires=1787021908821&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&subId=3274431466089&sig=f3mWrDWahos&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=3274431466089"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3706,7 +3890,8 @@
     "TRAILER": "https://youtube.com/watch?v=UxER50XHW-I",
     "URLS_OKRU": [
       "https://ok.ru/video/4195344845417"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd263.okcdn.ru/?expires=1787021912563&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.44&type=5&subId=3272775567977&sig=QhP-AnagPt0&ct=0&urls=185.180.203.62&clientType=0&zs=43&id=3272775567977"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3726,7 +3911,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8806404000379"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd471.okcdn.ru/expires/1787021916311/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.120/type/3/sig/T3zbBAHkGFA/ct/8/urls/178.237.23.31/clientType/0/zs/43/id/7497320630907/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -3746,7 +3932,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7511239297659"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787021918839/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/Dy56oO4XexI/ct/8/urls/185.180.203.50%3B95.163.35.27/clientType/0/zs/43/id/7101144107643/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3766,7 +3953,8 @@
     "TRAILER": "https://youtube.com/watch?v=KrQLcxR8o8U",
     "URLS_OKRU": [
       "https://ok.ru/video/8766431955579"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd258.okcdn.ru/expires/1787021921552/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.40/type/3/sig/OOQEV7BnN_Q/ct/8/urls/185.226.55.39/clientType/0/zs/43/id/7463409748603/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3786,7 +3974,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8806396398203"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd527.okcdn.ru/expires/1787021924153/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.37/type/5/sig/swxn1DzpxaA/ct/8/urls/95.163.35.42/clientType/0/zs/43/id/7497317223035/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -3806,7 +3995,8 @@
     "TRAILER": "https://youtube.com/watch?v=QbLTkAI-0B0",
     "URLS_OKRU": [
       "https://ok.ru/video/3331761507009"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd339.okcdn.ru/expires/1787021927180/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1811865663/ms/176.112.172.78/type/0/sig/v3W-ZUm0rGw/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/2006246427329/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -3826,7 +4016,8 @@
     "TRAILER": "https://youtube.com/watch?v=wHhCZCdKZk8",
     "URLS_OKRU": [
       "https://ok.ru/video/671081630226"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd709.okcdn.ru/expires/1787021929792/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.25/type/1/sig/ls0nOR03rQA/ct/8/urls/185.226.55.25/clientType/0/zs/43/id/436235602450/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -3846,7 +4037,8 @@
     "TRAILER": "https://youtube.com/watch?v=HWfzpkmeISU",
     "URLS_OKRU": [
       "https://ok.ru/video/3179407936122"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021932422/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.141/type/5/sig/_BPSDHPu5MU/ct/8/urls/176.112.172.1%3B95.163.35.70/clientType/0/zs/43/id/2117567253114/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -3866,7 +4058,8 @@
     "TRAILER": "https://youtube.com/watch?v=NV3vLRyw8eQ",
     "URLS_OKRU": [
       "https://ok.ru/video/3178019621498"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1787021934898/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.127/mid/3178019621498/type/5/subId/2115592915578/sig/gTqKpVxHoBA/ct/8/du/5265260/urls/178.237.29.193/clientType/0/asubs/y/zs/43/id/2115592915578/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -3886,7 +4079,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3177999501946"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd353.okcdn.ru/expires/1787021938463/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.131/mid/3177999501946/type/5/subId/2115580529274/sig/oK0O61vzaBk/ct/8/du/5672768/urls/176.112.172.34/clientType/0/asubs/y/zs/43/id/2115580529274/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3906,7 +4100,8 @@
     "TRAILER": "https://youtube.com/watch?v=-WrsSY-YVPg",
     "URLS_OKRU": [
       "https://ok.ru/video/7372458822324"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787021941761/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1182430820/ms/95.142.206.131/type/5/sig/MLQFni9bOZA/ct/8/urls/176.112.172.85%3B178.237.23.52/clientType/0/zs/43/id/15173147167412/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3926,7 +4121,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6716857256628"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/?expires=1787021944239&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.140&type=5&sig=5oIi_iXG-6k&ct=0&urls=176.112.172.120%3B185.180.203.127&clientType=0&zs=43&id=5092831922868"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3946,7 +4142,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10850705607348"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787021947271/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/28p7WeYIHdg/ct/8/urls/185.226.55.36%3B185.180.203.127/clientType/0/zs/43/id/9607634881204/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3966,7 +4163,8 @@
     "TRAILER": "https://youtube.com/watch?v=x66vnAYCru0",
     "URLS_OKRU": [
       "https://ok.ru/video/10539364911796"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd619.okcdn.ru/?expires=1787021949579&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.18&type=5&sig=fwO3cpTd7dA&ct=0&urls=185.226.55.102&clientType=0&zs=43&id=9205040810676"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3986,7 +4184,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10485507164852"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd436.okcdn.ru/expires/1787021952995/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.56/type/5/sig/D6obyVvF-rc/ct/8/urls/185.180.203.18/clientType/0/zs/43/id/9135004060340/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4006,7 +4205,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10492782774964"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787021955603/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/hV7AsVYWsaY/ct/8/urls/95.163.35.126%3B95.163.35.32/clientType/0/zs/43/id/9144147380916/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4026,7 +4226,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7348980943540"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1787021958080/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/type/5/sig/4dYT7xFge6c/ct/8/urls/176.112.172.44%3B185.180.203.43/clientType/0/zs/43/id/5999581006516/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4046,7 +4247,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7372413930164"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1787021960797&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.128&type=5&sig=bw9mwJ2lzlw&ct=0&urls=178.237.23.80%3B185.226.55.96&clientType=0&zs=43&id=6034999741108"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4066,7 +4268,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9354960898740"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787021964694/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/yFS46O6E--U/ct/8/urls/185.226.55.94%3B95.163.35.56/clientType/0/zs/43/id/7598029474484/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4086,7 +4289,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9961396767470"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd526.okcdn.ru/expires/1787021966951/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.36/type/5/sig/XKtJtTVZ62E/ct/8/urls/176.112.172.15/clientType/0/zs/43/id/8722925947630/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4106,7 +4310,8 @@
     "TRAILER": "https://youtube.com/watch?v=rJHkp8ZG_xA",
     "URLS_OKRU": [
       "https://ok.ru/video/9233605003878"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd623.okcdn.ru/expires/1787021969767/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.22/type/1/sig/DE76PkkQRt4/ct/8/urls/176.112.172.43/clientType/0/zs/43/id/7389635480166/video/"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4126,7 +4331,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14766848412262"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd668.okcdn.ru/expires/1787021972903/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.19/type/5/sig/fLyKMZ9_55U/ct/8/urls/95.163.35.124/clientType/0/zs/43/id/15539586927206/video/"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4146,7 +4352,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14766751287910"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd714.okcdn.ru/expires/1787021975539/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.30/type/5/sig/mW_MuNAI4ts/ct/8/urls/185.226.55.57/clientType/0/zs/43/id/15539455330918/video/"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4166,7 +4373,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14766802668134"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787021978204/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.141/type/5/sig/4XeEGXe8f5I/ct/8/urls/178.237.23.23%3B176.112.172.23/clientType/0/zs/43/id/15539516148326/video/"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4186,7 +4394,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14766664256102"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd633.okcdn.ru/expires/1787021980683/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/6-hbQEHiiV0/ct/8/urls/176.112.172.78/clientType/0/zs/43/id/15539257739878/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4206,7 +4415,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10567398197862"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd544.okcdn.ru/?expires=1787021984882&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.54&type=3&sig=URW2bkTJZ1k&ct=0&urls=95.163.35.27&clientType=0&zs=43&id=9290550610534"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4226,7 +4436,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9235972360806"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd714.okcdn.ru/expires/1787021988237/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.30/type/2/sig/m3VzmQYtgJw/ct/8/urls/185.180.203.33/clientType/0/zs/43/id/7393111706214/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4246,7 +4457,8 @@
     "TRAILER": "https://youtube.com/watch?v=eUwUUeSp22M",
     "URLS_OKRU": [
       "https://ok.ru/video/9233604872806"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd485.okcdn.ru/expires/1787021991653/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.111/type/1/sig/Ea1Dd7nIVSo/ct/8/urls/176.112.172.8/clientType/0/zs/43/id/7389612477030/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4266,7 +4478,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7836428864102"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd611.okcdn.ru/expires/1787021994805/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.66/type/5/sig/yhbqqlAH_ks/ct/8/urls/185.180.203.99/clientType/0/zs/43/id/6833247029862/video/"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4286,7 +4499,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7265551387238"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd705.okcdn.ru/expires/1787021997630/clientType/0/srcIp/52.161.59.3/type/2/mid/7265551387238/id/5922442447462/ms/176.112.172.21/zs/43/srcAg/CHROME/urls/95.163.35.15/oq/0/pr/10/ct/28/sig/LMeY75UJUbA/ondemand/COaU0OiurAESFAjmlNDorqwBEOaU0OiurAEYAiABGhQI5pTQ6K6sARDmlNDorqwBGAIgAiAEKAMwAzgCePQIQfis4Dbx-C8/fn/track.m3u8"
   },
   {
     "CATEGORIA": "TOM_Y_JERRY",
@@ -4306,7 +4520,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7265551256166"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd372.okcdn.ru/expires/1787022000881/clientType/0/srcIp/52.161.59.3/type/2/mid/7265551256166/id/5922440284774/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/95.163.35.126/oq/0/pr/10/ct/28/sig/GAPwh0HbziM/ondemand/COaUzOeurAESFAjmlMznrqwBEOaUzOeurAEYAiABGhQI5pTM566sARDmlMznrqwBGAIgAiAEKAMwAzgCeOwI9ilOcsHkvR8/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4326,7 +4541,8 @@
     "TRAILER": "https://youtube.com/watch?v=y85NeNJIva4",
     "URLS_OKRU": [
       "https://ok.ru/video/7120166455910"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd563.okcdn.ru/?expires=1787022004158&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.75&type=3&sig=guAKl1FnWc4&ct=0&urls=185.226.55.23&clientType=0&zs=43&id=5702771673702"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4346,7 +4562,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7031625943654"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd348.okcdn.ru/expires/1787022008439/clientType/0/srcIp/52.161.59.3/type/2/mid/7031625943654/id/5551455537766/ms/95.163.35.79/zs/43/srcAg/CHROME/urls/185.226.55.57/oq/0/pr/10/ct/28/sig/OocRzBDfxCY/ondemand/COaUpOTIoQESFAjmlKTkyKEBEOaUpOTIoQEYASABGhQI5pSk5MihARDmlKTkyKEBGAEgAiADKAIwAzgCeOEHiZl7D7ZGfNE/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4366,7 +4583,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7025372957286"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022011881/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/nuFEsIrRUH0/ct/8/urls/178.237.29.1%3B176.112.172.35/clientType/0/zs/43/id/17991133760102/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4386,7 +4604,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9365077822076"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1787022014296&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=6c_9pyakfzo&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=7958503361221"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4406,7 +4625,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9365085489788"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd746.okcdn.ru/?expires=1787022018092&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.23&type=3&sig=b-hm1bsDBYg&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=7958527281861"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4426,7 +4646,8 @@
     "TRAILER": "https://youtube.com/watch?v=2om1hDsDekY",
     "URLS_OKRU": [
       "https://ok.ru/video/9026294516348"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/?expires=1787022021427&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.132&type=6&sig=TGojA4Fh2vo&ct=0&urls=178.237.23.125%3B185.226.55.23&clientType=0&zs=43&id=7630161709692"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4446,7 +4667,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9026024376956"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd217.okcdn.ru/expires/1787022026796/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/33118851/ms/95.163.35.57/type/6/sig/8CbxgBz4vow/ct/8/urls/185.226.55.38/clientType/0/zs/43/id/8611882273404/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4466,7 +4688,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9203068177020"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd472.okcdn.ru/?expires=1787022030128&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.121&type=5&sig=ZqBteB58ZdA&ct=0&urls=178.237.29.193&clientType=0&zs=43&id=7881206794876"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4486,7 +4709,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11980355406495"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd546.okcdn.ru/?expires=1787022034089&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.56&type=3&sig=mKwrlTqj-5U&ct=0&urls=95.163.35.24&clientType=0&zs=43&id=11938855520927"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4506,7 +4730,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11980354882207"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1787022039068&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=59vNKyM_hBA&ct=0&urls=185.180.203.77&clientType=0&zs=43&id=11938713045663"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4526,7 +4751,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11980354554527"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd452.okcdn.ru/?expires=1787022043404&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.105&type=3&sig=2KRlrG3ez-U&ct=0&urls=176.112.172.36&clientType=0&zs=43&id=11938606287519"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4546,7 +4772,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11980353899167"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd709.okcdn.ru/?expires=1787022046898&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.25&type=3&sig=baNSXYVkTkw&ct=0&urls=178.237.23.3&clientType=0&zs=43&id=11938470496927"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4566,7 +4793,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2808060775032"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd668.okcdn.ru/expires/1787022051192/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.19/mid/2808060775032/type/5/subId/1094312987256/sig/r6um3M-xERI/ct/8/du/2773728/urls/178.237.29.9/clientType/0/asubs/y/zs/43/id/1094312987256/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4586,7 +4814,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11571613928095"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd449.okcdn.ru/expires/1787022054722/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1693248740/ms/176.112.172.94/mid/11571613928095/type/3/subId/11432175340191/sig/4r-1MdwfeLQ/ct/8/du/3132630/urls/185.180.203.17/clientType/0/asubs/y/zs/43/id/11432175340191/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4606,7 +4835,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2808504126072"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd462.okcdn.ru/expires/1787022057228/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.97/mid/2808504126072/type/5/subId/1094605081208/sig/_zQDIKVS33Y/ct/8/du/2796608/urls/178.237.23.16/clientType/0/asubs/y/zs/43/id/1094605081208/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4626,7 +4856,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35783051863"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd725.okcdn.ru/expires/1787022060658/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.2/type/3/sig/s16NICiEycE/ct/8/urls/95.163.35.8/clientType/0/zs/43/id/73078671959/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4646,7 +4877,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35691432535"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd755.okcdn.ru/expires/1787022064074/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.32/type/1/sig/KYZDFh9obk8/ct/8/urls/185.180.203.106/clientType/0/zs/43/id/73080638039/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4666,7 +4898,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35783182935"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd583.okcdn.ru/expires/1787022067773/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.226.55.104/type/1/sig/f0bV-d5vGFQ/ct/8/urls/95.163.35.39/clientType/0/zs/43/id/73080506967/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4686,7 +4919,8 @@
     "TRAILER": "https://youtube.com/watch?v=iBcBB3kuNlM",
     "URLS_OKRU": [
       "https://ok.ru/video/35789802071"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd409.okcdn.ru/expires/1787022070426/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.0/type/3/sig/39-Ovdk3KpM/ct/8/urls/176.112.172.40/clientType/0/zs/43/id/73076640343/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4706,7 +4940,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35691366999"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd218.okcdn.ru/expires/1787022073114/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1811865663/ms/95.163.35.58/type/0/sig/_8j6qKZCBy4/ct/8/urls/178.237.23.19/clientType/0/zs/43/id/73075460695/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4726,7 +4961,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35770010199"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd252.okcdn.ru/expires/1787022075989/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.109/type/1/sig/xczft52c1_Q/ct/8/urls/185.180.203.77/clientType/0/zs/43/id/73068579415/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4746,7 +4982,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35776563799"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd344.okcdn.ru/expires/1787022080360/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.97/type/5/sig/z0dmXiHZUjY/ct/8/urls/95.163.35.66/clientType/0/zs/43/id/73068317271/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4766,7 +5003,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35750939223"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd294.okcdn.ru/expires/1787022083738/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/176.112.172.69/type/1/sig/oIOKXMA35QU/ct/8/urls/185.180.203.105/clientType/0/zs/43/id/73090140759/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4786,7 +5024,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/35796093527"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd418.okcdn.ru/expires/1787022086301/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.124/type/1/sig/9fTyaF4OFnE/ct/8/urls/178.237.29.132/clientType/0/zs/43/id/73094335063/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4806,7 +5045,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://vkvideo.ru/video-230577224_456239020"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4826,7 +5066,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2287087389384"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787022091099/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.139/type/3/sig/mkadFrOrTqI/ct/8/urls/178.237.23.6%3B176.112.172.16/clientType/0/zs/43/id/1141531478728/video/"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -4846,7 +5087,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2457388387028"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd534.okcdn.ru/expires/1787022093854/clientType/0/srcIp/52.161.59.3/type/2/mid/2457388387028/id/1255923190484/ms/185.226.55.44/zs/43/srcAg/CHROME/urls/178.237.23.2/oq/0/pr/10/ct/28/sig/nm6qZc1hwkg/ondemand/CNSV7NbGJBISCNSV7NbGJBDUlezWxiQYASABGhII1JXs1sYkENSV7NbGJBgBIAIgAygCMAM4AnjuCUhZq0nEwlCr/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4866,7 +5108,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7661082512038"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-15.vkuser.net/expires/1787022097686/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.142/type/5/sig/pSa2L0bJLps/ct/8/urls/185.226.55.27%3B176.112.172.64/clientType/0/zs/43/id/6725413636774/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4886,7 +5129,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7631739816614"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787022100611/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/wf-CSxwG-cE/ct/8/urls/178.237.23.83%3B176.112.172.0/clientType/0/zs/43/id/6680610474662/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4906,7 +5150,8 @@
     "TRAILER": "https://youtube.com/watch?v=WKRodkEmbwM",
     "URLS_OKRU": [
       "https://ok.ru/video/2981669702310"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd251.okcdn.ru/expires/1787022103279/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.108/type/3/sig/HqWmoT8QTbI/ct/8/urls/176.112.172.6/clientType/0/zs/43/id/1498055183014/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -4926,7 +5171,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3937086474918"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787022105980/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.131/type/3/sig/CVtioJvh2lA/ct/8/urls/185.180.203.96%3B95.163.35.3/clientType/0/zs/43/id/2459495828134/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4946,7 +5192,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3913671248550"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd590.okcdn.ru/expires/1787022109274/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.96/type/5/sig/2d9dK0lQWhg/ct/8/urls/95.163.35.118/clientType/0/zs/43/id/2428863318694/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -4966,7 +5213,8 @@
     "TRAILER": "https://youtube.com/watch?v=IGqk-m36QIM",
     "URLS_OKRU": [
       "https://ok.ru/video/3920377678502"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd541.okcdn.ru/expires/1787022112553/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.51/type/5/sig/axGPVlg-pns/ct/8/urls/176.112.172.35/clientType/0/zs/43/id/2438290606758/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -4986,7 +5234,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3183527070374"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022115809/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/bU5ooIN-Z9E/ct/8/urls/176.112.172.21%3B95.163.35.7/clientType/0/zs/43/id/1725287369382/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -5006,7 +5255,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3182358432422"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022118329/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/9PtEbfcBULE/ct/8/urls/185.226.55.29%3B178.237.23.11/clientType/0/zs/43/id/1724323662502/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5027,7 +5277,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2956790532774",
       "https://ok.ru/video/2956790532774"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787022120734/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.140/type/3/sig/hRuU_IBw2pI/ct/8/urls/176.112.172.31%3B178.237.23.73/clientType/0/zs/43/id/1468564048550/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5047,7 +5298,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2932094864038"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022123165/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.132/type/5/sig/7pjWWvRSwXE/ct/8/urls/185.180.203.96%3B176.112.172.38/clientType/0/zs/43/id/910645070493/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5067,7 +5319,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2932599818918"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787022126259/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.130/type/5/sig/kJ5N9PU-Ziw/ct/8/urls/185.180.203.61%3B185.226.55.99/clientType/0/zs/43/id/911914699421/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5087,7 +5340,8 @@
     "TRAILER": "https://youtube.com/watch?v=MFwMAo06kt4",
     "URLS_OKRU": [
       "https://ok.ru/video/2889939487398"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787022129731/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/tDq36b0l1xA/ct/8/urls/176.112.172.64%3B185.226.55.100/clientType/0/zs/43/id/1388460247718/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5107,7 +5361,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2890122136230"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd709.okcdn.ru/expires/1787022132650/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.25/type/5/sig/9d2rZm3PNQk/ct/8/urls/178.237.23.81/clientType/0/zs/43/id/1388793236134/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5127,7 +5382,8 @@
     "TRAILER": "https://youtube.com/watch?v=x48CNwTvrPU",
     "URLS_OKRU": [
       "https://ok.ru/video/2759769197222"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd330.okcdn.ru/expires/1787022135420/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.180.203.77/type/2/sig/K6xkjX0-MaM/ct/8/urls/95.163.35.28/clientType/0/zs/43/id/1234665802406/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5147,7 +5403,8 @@
     "TRAILER": "https://youtube.com/watch?v=RltUHC-NYIc",
     "URLS_OKRU": [
       "https://ok.ru/video/2763603249830"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd335.okcdn.ru/expires/1787022138681/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.82/type/3/sig/eg5iu4X3nqc/ct/8/urls/95.163.35.29/clientType/0/zs/43/id/1238545205926/video/"
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -5167,7 +5424,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2864508373670"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1787022143212/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/1c_OSetysh8/ct/8/urls/176.112.172.92%3B185.226.55.34/clientType/0/zs/43/id/15495831423732/video/"
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -5187,7 +5445,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2867616287398"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd568.okcdn.ru/expires/1787022146088/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.80/type/5/sig/DXZtZ7qF9Kw/ct/8/urls/176.112.172.80/clientType/0/zs/43/id/15495937329908/video/"
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -5207,7 +5466,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2868884998822"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022149609/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/l1OChr5UHDc/ct/8/urls/176.112.172.10%3B185.180.203.18/clientType/0/zs/43/id/1363640453798/video/"
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -5227,7 +5487,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2869470825126"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022152684/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/tT2mWz_e9PM/ct/8/urls/176.112.172.82%3B185.180.203.106/clientType/0/zs/43/id/1364548848294/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5247,7 +5508,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10313678064366"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022155681/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.133/type/7/sig/TVCrZNHl4Yg/ct/8/urls/95.163.35.20%3B176.112.172.13/clientType/0/zs/43/id/9221273160430/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5267,7 +5529,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/11905450511086"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1787022158144/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.141/type/7/sig/HF1ospAzau4/ct/8/urls/95.163.35.14%3B185.180.203.21/clientType/0/zs/43/id/11243673553646/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5287,7 +5550,8 @@
     "TRAILER": "https://youtube.com/watch?v=sie0ataCDHg",
     "URLS_OKRU": [
       "https://ok.ru/video/10053656054510"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd630.okcdn.ru/expires/1787022160958/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/185.180.203.27/type/7/sig/gbp-OIFMLfI/ct/8/urls/95.163.35.42/clientType/0/zs/43/id/8855271770862/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5307,7 +5571,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7401081997956"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/?expires=1787022163672&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.131&type=5&sig=INVXm2xiJzo&ct=0&urls=185.226.55.35%3B185.180.203.31&clientType=0&zs=43&id=6034789042836"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5327,7 +5592,8 @@
     "TRAILER": "https://youtube.com/watch?v=irhNvQuMmBA",
     "URLS_OKRU": [
       "https://ok.ru/video/11478939798254"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787022167358/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/hCd5aWnS-ho/ct/8/urls/176.112.172.20%3B95.163.35.108/clientType/0/zs/43/id/10718720494318/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5347,7 +5613,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/12382361422574"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787022169909/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1698537241/ms/95.142.206.131/type/7/sig/DVXH2JVSRCU/ct/8/urls/185.180.203.122%3B178.237.23.9/clientType/0/zs/43/id/11845984258798/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5367,7 +5634,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2590929324621"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd287.okcdn.ru/expires/1787022172538/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1306413570/ms/176.112.172.62/mid/2590929324621/type/5/subId/1043200019021/sig/0fkBr2C_7zQ/ct/8/du/5021472/urls/185.226.55.110/clientType/0/asubs/y/zs/43/id/1043200019021/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5387,7 +5655,8 @@
     "TRAILER": "https://youtube.com/watch?v=S6BeTSe8Buo",
     "URLS_OKRU": [
       "https://ok.ru/video/9452577952165"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5407,7 +5676,8 @@
     "TRAILER": "https://youtube.com/watch?v=DcV-rVrXsWs",
     "URLS_OKRU": [
       "https://ok.ru/video/2602656336461"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd352.okcdn.ru/expires/1787022178573/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.129/type/1/sig/TptcWpfr1rs/ct/8/urls/176.112.172.24/clientType/0/zs/43/id/1050388204109/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5427,7 +5697,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6493394700982"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd563.okcdn.ru/expires/1787022181544/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.75/type/3/sig/N9wJrAhayHg/ct/8/urls/185.180.203.124/clientType/0/zs/43/id/4680858864310/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5447,7 +5718,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3457312295606"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd234.okcdn.ru/expires/1787022184274/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.64/type/1/sig/1AtD_bc0Jlk/ct/8/urls/178.237.23.55/clientType/0/zs/43/id/1275912653494/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5467,7 +5739,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2634218277522"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd401.okcdn.ru/expires/1787022186914/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.120/type/5/sig/1eYwiU2kksY/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/1202805475986/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5487,7 +5760,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4527967242841"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd565.okcdn.ru/expires/1787022189447/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.23.77/type/3/sig/UogoWC9fpEE/ct/8/urls/185.180.203.105/clientType/0/zs/43/id/3297137986137/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5507,7 +5781,8 @@
     "TRAILER": "https://youtube.com/watch?v=dZrmy91eZa4",
     "URLS_OKRU": [
       "https://ok.ru/video/6540379490838"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd743.okcdn.ru/expires/1787022192047/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.20/type/3/sig/YJYfjVj0DUQ/ct/8/urls/176.112.172.13/clientType/0/zs/43/id/9110936554006/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5527,7 +5802,8 @@
     "TRAILER": "https://youtube.com/watch?v=sxVaBzW8gGM",
     "URLS_OKRU": [
       "https://ok.ru/video/3721206499929"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd272.okcdn.ru/expires/1787022194734/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.53/type/3/sig/Txhpd1Vf69g/ct/8/urls/178.237.29.0/clientType/0/zs/43/id/2375832308313/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5547,7 +5823,8 @@
     "TRAILER": "https://youtube.com/watch?v=FNZLizaAfno",
     "URLS_OKRU": [
       "https://ok.ru/video/6658325351071"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787022197343/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/NPZ_0hZkbhA/ct/8/urls/185.180.203.77%3B95.163.35.38/clientType/0/zs/43/id/10622999661215/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5567,7 +5844,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3852187667021"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd464.okcdn.ru/expires/1787022199577/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.99/type/3/sig/338_7BZgyRY/ct/8/urls/185.180.203.106/clientType/0/zs/43/id/2141244688973/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5587,7 +5865,8 @@
     "TRAILER": "https://youtube.com/watch?v=gXgnT50Cr-c",
     "URLS_OKRU": [
       "https://ok.ru/video/3336459782737"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd205.okcdn.ru/expires/1787022202128/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.38/type/1/sig/grPvcz0EZa8/ct/8/urls/176.112.172.40/clientType/0/zs/43/id/1468642691665/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5607,7 +5886,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4519400180374"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787022204693/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.137/type/3/sig/pIOeFFxqAZo/ct/8/urls/178.237.23.32%3B185.180.203.120/clientType/0/zs/43/id/4681836202646/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5627,7 +5907,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10709688191553"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd538.okcdn.ru/expires/1787022207571/clientType/0/srcIp/52.161.59.3/type/2/mid/10709688191553/id/9897489730113/ms/185.226.55.48/zs/43/srcAg/CHROME/urls/95.163.35.28/oq/0/pr/10/ct/28/sig/zsFzjDSgCxw/ondemand/CMGU8IKHoAISFAjBlPCCh6ACEMGU8IKHoAIYASABGhQIwZTwgoegAhDBlPCCh6ACGAEgAiADKAIwAzgCeKsF16NFTIZJ-Jk/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5647,7 +5928,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10025694333678"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd572.okcdn.ru/expires/1787022210855/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.84/type/5/sig/IvMYqLU_tpY/ct/8/urls/178.237.23.124/clientType/0/zs/43/id/8816944220910/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5667,7 +5949,8 @@
     "TRAILER": "https://youtube.com/watch?v=bjJvvrKl83M",
     "URLS_OKRU": [
       "https://ok.ru/video/4392572947081"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787022213475/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.140/type/1/sig/0eRChEqq4Sg/ct/8/urls/95.163.35.88%3B178.237.23.37/clientType/0/zs/43/id/3338780478089/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5687,7 +5970,8 @@
     "TRAILER": "https://youtube.com/watch?v=c5raWxmcjZQ",
     "URLS_OKRU": [
       "https://ok.ru/video/4366992214665"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd478.okcdn.ru/expires/1787022216407/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.93/type/1/sig/thU3I79IGoQ/ct/8/urls/185.226.55.11/clientType/0/zs/43/id/3308998232713/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5707,7 +5991,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4386062797449"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd366.okcdn.ru/expires/1787022218944/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.92/type/1/sig/F5CMA1zbkl0/ct/8/urls/95.163.35.4/clientType/0/zs/43/id/3329966606985/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5727,7 +6012,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4391069354633"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd364.okcdn.ru/expires/1787022221658/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.90/type/1/sig/xoMbcNDSK84/ct/8/urls/95.163.35.83/clientType/0/zs/43/id/3336477280905/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5747,7 +6033,8 @@
     "TRAILER": "https://youtube.com/watch?v=NcFEhWH85MM",
     "URLS_OKRU": [
       "https://ok.ru/video/7176715438759"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787022224904/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.142.206.137/type/1/sig/CTCiLI_j-DU/ct/8/urls/185.180.203.98%3B176.112.172.67/clientType/0/zs/43/id/5707224386215/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5767,7 +6054,8 @@
     "TRAILER": "https://youtube.com/watch?v=v-K91PiaWs8",
     "URLS_OKRU": [
       "https://ok.ru/video/1329301097048"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1787022227498&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.49&type=0&sig=0L6jijX07Ro&ct=0&urls=95.163.35.4&clientType=0&zs=43&id=3638004484731"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5787,7 +6075,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/5363506875020"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787022230170/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.130/type/5/sig/nCRjR9vAb_c/ct/8/urls/178.237.23.76%3B185.226.55.20/clientType/0/zs/43/id/4712088144524/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5807,7 +6096,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1379845868093"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd613.okcdn.ru/expires/1787022233160/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.122/type/5/sig/6lhshoasLjw/ct/8/urls/178.237.23.22/clientType/0/zs/43/id/672077974077/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5827,7 +6117,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1379846326845"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd452.okcdn.ru/expires/1787022236480/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.105/type/5/sig/NFrlm7mxS-o/ct/8/urls/95.163.35.110/clientType/0/zs/43/id/672080595517/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5847,7 +6138,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1379846392381"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd523.okcdn.ru/expires/1787022239077/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.33/type/5/sig/DnfWK-SpzaY/ct/8/urls/95.163.35.36/clientType/0/zs/43/id/672081840701/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5867,7 +6159,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1379846523453"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd692.okcdn.ru/expires/1787022241636/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.8/type/5/sig/pVCeXuLK6r8/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/672083348029/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5887,7 +6180,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1379846720061"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd622.okcdn.ru/expires/1787022244439/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.21/type/5/sig/OMlS3e3W6Lk/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/672084724285/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -5907,7 +6201,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1380944579133"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd633.okcdn.ru/expires/1787022247048/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.30/type/5/sig/RQYeiJCKN64/ct/8/urls/176.112.172.5/clientType/0/zs/43/id/672536201789/video/"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -5927,7 +6222,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169903250"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd645.okcdn.ru/?expires=1787022249579&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.42&type=5&sig=7C1SP0sP7UQ&ct=0&urls=178.237.23.30&clientType=0&zs=43&id=1372812741266"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -5947,7 +6243,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169772178"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd524.okcdn.ru/?expires=1787022253199&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.34&type=5&sig=wYTpE6UH1kk&ct=0&urls=95.163.35.66&clientType=0&zs=43&id=1372509768338"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -5967,7 +6264,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169575570"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd324.okcdn.ru/?expires=1787022256719&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.53.33&type=5&sig=p2eHUJMILjU&ct=0&urls=176.112.172.78&clientType=0&zs=43&id=1372158036626"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -5987,7 +6285,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169510034"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd335.okcdn.ru/?expires=1787022260917&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.82&type=5&sig=28rRz0akKwI&ct=0&urls=178.237.23.109&clientType=0&zs=43&id=1372091452050"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -6007,7 +6306,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169444498"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd749.okcdn.ru/expires/1787022264483/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.26/type/5/sig/JlMoKs16zds/ct/8/urls/178.237.23.37/clientType/0/zs/43/id/1372041513618/video/"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -6027,7 +6327,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169378962"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd314.okcdn.ru/expires/1787022267322/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.67/type/5/sig/ZFb-e_BOq5c/ct/8/urls/176.112.172.63/clientType/0/zs/43/id/1372004223634/video/"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -6047,7 +6348,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169313426"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd585.okcdn.ru/?expires=1787022270044&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.106&type=5&sig=9CwheYcrpWc&ct=0&urls=95.163.35.70&clientType=0&zs=43&id=1371977681554"
   },
   {
     "CATEGORIA": "NARUTO",
@@ -6067,7 +6369,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823169247890"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1787022274327/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/pw-Hp40_jZw/ct/8/urls/185.180.203.36%3B95.163.35.108/clientType/0/zs/43/id/1371902446226/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6087,7 +6390,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16263253133889"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/expires/1787022277078/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.136/type/5/sig/9lVmQ0bQWPg/ct/8/urls/178.237.23.107%3B185.226.55.107/clientType/0/zs/43/id/16488197458516/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6107,7 +6411,8 @@
     "TRAILER": "https://youtube.com/watch?v=qoZo9MiICo0",
     "URLS_OKRU": [
       "https://ok.ru/video/8510816979551"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/expires/1787022279637/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.138/type/3/sig/GgEwZtnEqms/ct/8/urls/176.112.172.26%3B95.163.35.44/clientType/0/zs/43/id/8300312267359/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6127,7 +6432,8 @@
     "TRAILER": "https://youtube.com/watch?v=_x0P00oaH3c",
     "URLS_OKRU": [
       "https://ok.ru/video/2558241213071"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1787022282398/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.142.206.135/type/2/sig/lq969EMrRM4/ct/8/urls/176.112.172.82%3B178.237.23.52/clientType/0/zs/43/id/1211599096463/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6147,7 +6453,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6920146193063"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022284924/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/3FW-WyBVKQU/ct/8/urls/176.112.172.16%3B185.226.55.49/clientType/0/zs/43/id/11185651059367/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6167,7 +6474,8 @@
     "TRAILER": "https://youtube.com/watch?v=5qAo-4YDnZQ",
     "URLS_OKRU": [
       "https://ok.ru/video/78820739715"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022287359/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.133/type/3/sig/NeeAejTzHuE/ct/8/urls/178.237.23.4%3B176.112.172.99/clientType/0/zs/43/id/109598083715/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6187,7 +6495,8 @@
     "TRAILER": "https://youtube.com/watch?v=XW6sBY4zMy0",
     "URLS_OKRU": [
       "https://ok.ru/video/7368868825695"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd748.okcdn.ru/?expires=1787022290260&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.25&type=5&subId=7061856848479&sig=Aq0EeyQkt1k&ct=0&urls=176.112.172.104&clientType=0&zs=43&id=7061856848479"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -6207,7 +6516,8 @@
     "TRAILER": "https://youtube.com/watch?v=GgreeAgJCCs",
     "URLS_OKRU": [
       "https://ok.ru/video/6629741234810"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd741.okcdn.ru/expires/1787022295609/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.18/type/1/sig/pydFauhMVYw/ct/8/urls/178.237.23.78/clientType/0/zs/43/id/8773489003130/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6227,7 +6537,8 @@
     "TRAILER": "https://youtube.com/watch?v=FE_fc3xcLPY",
     "URLS_OKRU": [
       "https://ok.ru/video/10988516936430"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022298217/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/hzaQT1aRKpE/ct/8/urls/176.112.172.97%3B185.226.55.49/clientType/0/zs/43/id/10098589764334/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6247,7 +6558,8 @@
     "TRAILER": "https://youtube.com/watch?v=ee3XOCH-pok",
     "URLS_OKRU": [
       "https://ok.ru/video/7481434245764"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd703.okcdn.ru/expires/1787022300793/clientType/0/srcIp/52.161.59.3/type/2/mid/7481434245764/id/6771002182276/ms/176.112.172.19/zs/43/srcAg/CHROME/urls/185.180.203.40/oq/0/pr/10/ct/28/sig/OX7lX7BY7bY/ondemand/CISVuPmHxQESFAiElbj5h8UBEISVuPmHxQEYASABGhQIhJW4-YfFARCElbj5h8UBGAEgAiADKAIwAzgCeNYPDb0Kie-3RI8/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6267,7 +6579,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8149976681092"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd329.okcdn.ru/expires/1787022304330/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.76/type/3/sig/ffXQffNcRwE/ct/8/urls/95.163.35.45/clientType/0/zs/43/id/7182212139652/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -6287,7 +6600,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7708326103684"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd686.okcdn.ru/expires/1787022306873/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.2/type/2/sig/KSm1xEgYyZw/ct/8/urls/185.226.55.122/clientType/0/zs/43/id/7118701202052/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -6307,7 +6621,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7647484054148"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787022309375/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.130/type/5/sig/DgZHlE8hu60/ct/8/urls/185.180.203.20%3B185.226.55.29/clientType/0/zs/43/id/7017584462468/video/"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -6327,7 +6642,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7647542839940"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd445.okcdn.ru/expires/1787022311853/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.119/type/5/sig/mwdmbBhNSG4/ct/8/urls/185.180.203.30/clientType/0/zs/43/id/7017636039300/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6347,7 +6663,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7575386131076"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd274.okcdn.ru/expires/1787022314524/clientType/0/srcIp/52.161.59.3/type/2/mid/7575386131076/id/6925417712260/ms/176.112.172.54/zs/43/srcAg/CHROME/urls/95.163.35.32/oq/0/pr/10/ct/28/sig/xh7emHOlYwA/ondemand/CISVwJjHyQESFAiElcCYx8kBEISVwJjHyQEYAiABGhQIhJXAmMfJARCElcCYx8kBGAIgAiAEKAMwAzgCeO8Jdqa0IM7zZ4Y/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6367,7 +6684,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7570451139204"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd526.okcdn.ru/expires/1787022317994/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/185.226.55.36/type/2/sig/eJ48ppUqKVA/ct/8/urls/178.237.23.31/clientType/0/zs/43/id/6918565792388/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6387,7 +6705,8 @@
     "TRAILER": "https://youtube.com/watch?v=lUAG_dHh-kw",
     "URLS_OKRU": [
       "https://ok.ru/video/7482563365508"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd662.okcdn.ru/?expires=1787022321468&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.13&type=5&sig=kdVrccc64Vw&ct=0&urls=176.112.172.78&clientType=0&zs=43&id=6772853246596"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6407,7 +6726,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7478314994308"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd430.okcdn.ru/expires/1787022325454/clientType/0/srcIp/52.161.59.3/type/2/mid/7478314994308/id/6765919931012/ms/178.237.23.50/zs/43/srcAg/CHROME/urls/95.163.35.20/oq/0/pr/10/ct/28/sig/Ccgyj7M0ZXY/ondemand/CISVhIL1xAESFAiElYSC9cQBEISVhIL1xAEYAiABGhQIhJWEgvXEARCElYSC9cQBGAIgAiAEKAMwAzgCeNoL-_UbRgtY6GY/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6427,7 +6747,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7478253587076"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd734.okcdn.ru/expires/1787022329003/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/95.163.35.11/type/2/sig/t5fY2ml1XeI/ct/8/urls/185.226.55.39/clientType/0/zs/43/id/11028694829700/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6447,7 +6768,8 @@
     "TRAILER": "https://youtube.com/watch?v=4NdBbKkt06k",
     "URLS_OKRU": [
       "https://ok.ru/video/7477542718084"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd612.okcdn.ru/expires/1787022331609/clientType/0/srcIp/52.161.59.3/type/2/mid/7477542718084/id/6764563663492/ms/185.226.55.121/zs/43/srcAg/CHROME/urls/185.226.53.32/oq/0/pr/10/ct/28/sig/5meXV4bmFVI/ondemand/CISVqPvvxAESFAiElaj778QBEISVqPvvxAEYAiABGhQIhJWo--_EARCElaj778QBGAIgAiAEKAMwAzgCeMQLlvM_GGU42TI/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6467,7 +6789,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7477505821316"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd501.okcdn.ru/expires/1787022335343/clientType/0/srcIp/52.161.59.3/type/2/mid/7477505821316/id/6764472240772/ms/185.226.55.11/zs/43/srcAg/CHROME/urls/95.163.35.84/oq/0/pr/10/ct/28/sig/cL0208nNxsg/ondemand/CISV3M_vxAESFAiEldzP78QBEISV3M_vxAEYAiABGhQIhJXcz-_EARCEldzP78QBGAIgAiAEKAMwAzgCeIcMo3EnNbGI318/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6487,7 +6810,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7471216265860"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022338939/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.142.206.132/type/3/sig/nuo8TgDn_5M/ct/8/urls/95.163.35.125%3B176.112.172.23/clientType/0/zs/43/id/14431658379986/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -6507,7 +6831,8 @@
     "TRAILER": "https://youtube.com/watch?v=PlxRt9j7wGQ",
     "URLS_OKRU": [
       "https://ok.ru/video/7625505245828"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd443.okcdn.ru/expires/1787022341400/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/95.163.35.117/type/1/sig/hONMUu_m6zU/ct/8/urls/185.226.55.28/clientType/0/zs/43/id/6990291208836/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -6527,7 +6852,8 @@
     "TRAILER": "https://youtube.com/watch?v=5ivARRy6CiY",
     "URLS_OKRU": [
       "https://ok.ru/video/3451026147957"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1787022343912/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.23.8/type/1/sig/R4gnWVYQcK8/ct/8/urls/95.163.35.14/clientType/0/zs/43/id/2246722783861/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6547,7 +6873,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7449452677764"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd372.okcdn.ru/expires/1787022346575/clientType/0/srcIp/52.161.59.3/type/2/mid/7449452677764/id/6718817176196/ms/95.163.35.85/zs/43/srcAg/CHROME/urls/185.226.55.28/oq/0/pr/10/ct/28/sig/pfwEM62vWsQ/ondemand/CISV2MXFwwESFAiEldjFxcMBEISV2MXFwwEYASABGhQIhJXYxcXDARCEldjFxcMBGAEgAiADKAIwAzgCeKgPgw6RwAtmZzw/fn/track.m3u8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -6567,7 +6894,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7446969977476"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd451.okcdn.ru/expires/1787022350007/clientType/0/srcIp/52.161.59.3/type/2/mid/7446969977476/id/6714834684548/ms/185.180.203.55/zs/43/srcAg/CHROME/urls/176.112.172.99/oq/0/pr/10/ct/28/sig/zcSSlyDYCVg/ondemand/CISV2Nq2wwESFAiEldjatsMBEISV2Nq2wwEYAiABGhQIhJXY2rbDARCEldjatsMBGAIgAiAEKAMwAzgCeMgRVVaItuOwdMk/fn/track.m3u8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -6587,7 +6915,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7446920956548"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd199.okcdn.ru/?expires=1787022353684&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.42&type=3&sig=aSk3Q7t9bh4&ct=0&urls=95.163.35.10&clientType=0&zs=43&id=6714762726020"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -6607,7 +6936,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7446912371332"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd341.okcdn.ru/expires/1787022357126/clientType/0/srcIp/52.161.59.3/type/2/mid/7446912371332/id/6714749880964/ms/176.112.172.80/zs/43/srcAg/CHROME/urls/178.237.29.64/oq/0/pr/10/ct/28/sig/Kla0iRocDNs/ondemand/CISVoLK2wwESFAiElaCytsMBEISVoLK2wwEYASABGhQIhJWgsrbDARCElaCytsMBGAEgAiADKAIwAzgCeKgHHsrHFkjaDZs/fn/track.m3u8"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -6627,7 +6957,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7446958377604"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd754.okcdn.ru/?expires=1787022360905&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.31&type=3&sig=QnmxxdsxbMU&ct=0&urls=176.112.172.104&clientType=0&zs=43&id=6714817907332"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -6647,7 +6978,8 @@
     "TRAILER": "https://youtube.com/watch?v=W9QY3lKw2p4",
     "URLS_OKRU": [
       "https://ok.ru/video/7424576653956"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd307.okcdn.ru/?expires=1787022364095&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.62&type=3&sig=Gizl67otm9s&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=6678964472452"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6667,7 +6999,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7345850157700"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1787022367449&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.142.206.134&type=5&sig=Ef3Uu_cZtzM&ct=0&urls=176.112.172.98%3B185.180.203.55&clientType=0&zs=43&id=6550748924548"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6687,7 +7020,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7345831611012"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd689.okcdn.ru/expires/1787022370908/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.5/type/5/sig/TO4KCX6saUU/ct/8/urls/185.226.55.45/clientType/0/zs/43/id/2888006109943/video/"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6707,7 +7041,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7345821256324"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd468.okcdn.ru/?expires=1787022373647&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.103&type=5&sig=8hmyFCnmDWE&ct=0&urls=95.163.35.24&clientType=0&zs=43&id=6550693481092"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6727,7 +7062,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7345799301764"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd471.okcdn.ru/?expires=1787022377240&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.120&type=5&sig=Z7jgsoQNDSg&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=6550684043908"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6747,7 +7083,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7343737735812"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/expires/1787022380871/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.128/type/5/sig/5G8aqa-Qtr8/ct/8/urls/176.112.172.103%3B178.237.23.12/clientType/0/zs/43/id/2900095077111/video/"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6767,7 +7104,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342861453956"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1787022383386&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.49&type=3&sig=o_sZD5WeXCY&ct=0&urls=95.163.35.24&clientType=0&zs=43&id=6545836804740"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6787,7 +7125,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342777043588"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022387079/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/79lIPTfNH64/ct/8/urls/185.226.55.96%3B185.180.203.66/clientType/0/zs/43/id/2894086408951/video/"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6807,7 +7146,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342761904772"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd473.okcdn.ru/?expires=1787022389841&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.122&type=5&sig=elAGJIoiSlA&ct=0&urls=178.237.23.15&clientType=0&zs=43&id=6545666280068"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6827,7 +7167,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342198295172"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd472.okcdn.ru/?expires=1787022393383&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.121&type=3&sig=KEnYScjfqq8&ct=0&urls=176.112.172.93&clientType=0&zs=43&id=6545019177604"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6847,7 +7188,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342113229444"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd760.okcdn.ru/?expires=1787022396876&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.37&type=5&sig=pJLJtCHeMzM&ct=0&urls=176.112.172.23&clientType=0&zs=43&id=6544618621572"
   },
   {
     "CATEGORIA": "MONSTER_HIGH",
@@ -6867,7 +7209,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7342086163076"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd702.okcdn.ru/expires/1787022400527/clientType/0/srcIp/52.161.59.3/type/2/mid/7342086163076/id/6544509831812/ms/176.112.172.18/zs/43/srcAg/CHROME/urls/185.226.55.13/oq/0/pr/10/ct/28/sig/nAhSvwDWTqE/ondemand/CISVvJm8vgESFAiElbyZvL4BEISVvJm8vgEYASABGhQIhJW8mby-ARCElbyZvL4BGAEgAiADKAIwAzgCeMcDjHTX7LZ-yX0/fn/track.m3u8"
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -6887,7 +7230,8 @@
     "TRAILER": "https://youtube.com/watch?v=hmTcQqJB5wE",
     "URLS_OKRU": [
       "https://ok.ru/video/4232745716329"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd523.okcdn.ru/expires/1787022404635/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.33/type/5/sig/xGScd_AAgL4/ct/8/urls/176.112.172.92/clientType/0/zs/43/id/6687319067241/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -6907,7 +7251,8 @@
     "TRAILER": "https://youtube.com/watch?v=JvIvF8ST8CY",
     "URLS_OKRU": [
       "https://ok.ru/video/5111536814697"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd433.okcdn.ru/?expires=1787022407251&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=178.237.23.53&type=3&sig=cwnz6CJNaJQ&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=4441138924137"
   },
   {
     "CATEGORIA": "SHREK",
@@ -6927,7 +7272,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4198934055529"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd368.okcdn.ru/?expires=1787022411032&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.180.203.94&type=5&sig=2Ttbhp4Q10U&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=3276784994921"
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -6947,7 +7293,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4190841080425"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd307.okcdn.ru/expires/1787022414578/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.62/mid/4190841080425/type/5/subId/7664808233569/sig/iBqjPB1KnS8/ct/8/du/3184544/urls/176.112.172.2/clientType/0/asubs/y/zs/43/id/7664808233569/video/"
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -6967,7 +7314,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6294114601599"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd200.okcdn.ru/?expires=1787022417154&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.43&type=5&sig=epTkN_Ct8Lc&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=5350672108159"
   },
   {
     "CATEGORIA": "SHREK",
@@ -6987,7 +7335,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4190108322409"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd760.okcdn.ru/?expires=1787022420647&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=95.163.35.37&type=5&sig=Yw47J13_CxA&ct=0&urls=176.112.172.77&clientType=0&zs=43&id=3266623965801"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7007,7 +7356,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7785377630852"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd446.okcdn.ru/expires/1787022424962/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1107745692/ms/176.112.172.91/type/2/sig/5D_hqtmkhsY/ct/8/urls/95.163.35.98/clientType/0/zs/43/id/7109940152964/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7027,7 +7377,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14435794422412"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd346.okcdn.ru/expires/1787022427540/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.180.203.99/type/3/sig/s-ioFb5RXv0/ct/8/urls/178.237.23.32/clientType/0/zs/43/id/16044003822220/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7047,7 +7398,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15014099880588"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd448.okcdn.ru/expires/1787022430180/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.93/type/3/sig/KmL00MsUM1o/ct/8/urls/178.237.29.10/clientType/0/zs/43/id/17066450553484/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7067,7 +7419,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/8702123051660"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd288.okcdn.ru/expires/1787022432879/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.63/type/5/sig/uA9BFB9IlHY/ct/8/urls/95.163.35.123/clientType/0/zs/43/id/7623359335052/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7087,7 +7440,8 @@
     "TRAILER": "https://youtube.com/watch?v=1f9LFnTr1r0",
     "URLS_OKRU": [
       "https://ok.ru/video/6908741356172"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd728.okcdn.ru/expires/1787022435473/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/95.163.35.5/type/3/sig/iYEWH61Ii_c/ct/8/urls/176.112.172.14/clientType/0/zs/43/id/6111293999756/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7107,7 +7461,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6252102093452"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022438019/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.132/type/5/sig/OVqCqkIYsws/ct/8/urls/185.226.55.104%3B95.163.35.37/clientType/0/zs/43/id/5115262864012/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7127,7 +7482,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2701254789772"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd525.okcdn.ru/expires/1787022441347/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.35/type/3/sig/ysr1Lt4Td3k/ct/8/urls/176.112.172.100/clientType/0/zs/43/id/1732281109132/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7147,7 +7503,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2719659788940"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd532.okcdn.ru/expires/1787022444146/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.42/type/3/sig/Oph-pj4eeZQ/ct/8/urls/176.112.172.121/clientType/0/zs/43/id/1753511627404/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7167,7 +7524,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2703463484044"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022446748/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.132/type/5/sig/oJrNlbOSDF0/ct/8/urls/185.226.55.57%3B185.180.203.17/clientType/0/zs/43/id/1734801689228/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7187,7 +7545,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2717596519052"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd606.okcdn.ru/expires/1787022449239/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.36/type/5/sig/AhZLfYs7Lko/ct/8/urls/185.226.55.66/clientType/0/zs/43/id/1753530698380/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7207,7 +7566,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4172108204684"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd696.okcdn.ru/expires/1787022451895/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.12/type/5/sig/WxuybZp0cgo/ct/8/urls/185.180.203.32/clientType/0/zs/43/id/3251068865164/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7227,7 +7587,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/3012725967500"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd524.okcdn.ru/expires/1787022455081/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1676822812/ms/185.226.55.34/type/3/sig/o0ckeueN738/ct/8/urls/178.237.23.127/clientType/0/zs/43/id/2019522775692/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7247,7 +7608,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1867168090756"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd673.okcdn.ru/expires/1787022459181/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1811865663/ms/178.237.23.24/type/0/sig/CwEUSQsl23A/ct/8/urls/185.180.203.51/clientType/0/zs/43/id/751593785988/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7267,7 +7629,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2823588219574"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd628.okcdn.ru/expires/1787022461828/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/185.180.203.25/type/1/sig/LSCIFYN4jq4/ct/8/urls/176.112.172.83/clientType/0/zs/43/id/835455355574/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7287,7 +7650,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2879797070518"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1787022464417/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/1859034457/ms/178.237.29.10/type/1/sig/XkpaIcnSIrw/ct/8/urls/178.237.29.131/clientType/0/zs/43/id/866105035446/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7307,7 +7671,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/1993814118694"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022467618/srcIp/52.161.59.3/pr/5/srcAg/CHROME/ch/1859034457/ms/95.142.206.132/type/1/sig/Zy5dr4HDlzw/ct/8/urls/185.180.203.16%3B95.163.35.119/clientType/0/zs/43/id/420980198002/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7327,7 +7692,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16189095807512"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7347,7 +7713,8 @@
     "TRAILER": "https://youtube.com/watch?v=JRw_t5MZJOw",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Vaiana%20%282016%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7367,7 +7734,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Frozen%3A%20Una%20aventura%20de%20Olaf%20%282017%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7387,7 +7755,8 @@
     "TRAILER": "https://youtube.com/watch?v=nuQDFYpPUh4",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Cars%20%282006%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7407,7 +7776,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Cars%202%20%282011%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7427,7 +7797,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Cars%203%20%282017%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7447,7 +7818,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Toy%20Story%203%20%282010%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7467,7 +7839,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Toy%20Story%202%20%281999%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7487,7 +7860,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15222486272750"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787022475613/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.130/type/7/sig/XJMxZDYDA7s/ct/8/urls/185.180.203.26%3B176.112.172.20/clientType/0/zs/43/id/16981862714094/video/"
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -7507,7 +7881,8 @@
     "TRAILER": "https://youtube.com/watch?v=31Irue4rhbs",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Los%20Minions%20%282015%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -7527,7 +7902,8 @@
     "TRAILER": "https://youtube.com/watch?v=kdYRLVG-Mi8",
     "URLS_OKRU": [
       "https://ok.ru/video/7493930453636"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd469.okcdn.ru/?expires=1787022478392&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=176.112.172.104&type=5&sig=VItdLe1UPUw&ct=0&urls=185.180.203.121&clientType=0&zs=43&id=6791605258884"
   },
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
@@ -7547,7 +7923,8 @@
     "TRAILER": "https://youtube.com/watch?v=QDVhZ-p6Omo",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Despicable%20Me%202%20%282013%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7567,7 +7944,8 @@
     "TRAILER": "https://youtube.com/watch?v=vp0sjmy_ad4",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Moana%202%20%282024%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "SHREK",
@@ -7587,7 +7965,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Shrek%20the%20Third%20%282007%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "SHREK",
@@ -7607,7 +7986,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Shrek%202%20%282004%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "SHREK",
@@ -7627,7 +8007,8 @@
     "TRAILER": "https://youtube.com/watch?v=rhng15NnWFI",
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Shrek%20%282001%29.mp4"
-    ]
+    ],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7647,7 +8028,8 @@
     "TRAILER": "https://youtube.com/watch?v=61EyTn4ZxYk",
     "URLS_OKRU": [
       "https://ok.ru/video/12403799034606"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/expires/1787022483484/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.132/type/7/sig/OZKRLi7QhOg/ct/8/urls/95.163.35.27%3B176.112.172.63/clientType/0/zs/43/id/11874613136110/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7667,7 +8049,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15261832710894"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787022486291/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.137/type/7/sig/tkAxl_kOeZk/ct/8/urls/185.226.53.32%3B95.163.35.82/clientType/0/zs/43/id/17049617500910/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7687,7 +8070,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15288598072046"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/expires/1787022488714/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/59258807/ms/95.142.206.137/type/7/sig/i-tC__U4QF8/ct/8/urls/176.112.172.69%3B185.226.55.18/clientType/0/zs/43/id/17095828179694/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7707,7 +8091,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10980461775598"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd355.okcdn.ru/expires/1787022491278/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.29.133/type/5/sig/pmLf9bTM-Pw/ct/8/urls/185.180.203.32/clientType/0/zs/43/id/10085852515054/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -7727,7 +8112,8 @@
     "TRAILER": "https://youtube.com/watch?v=ri0ciDF-Cpg",
     "URLS_OKRU": [
       "https://ok.ru/video/10716497447662"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787022494210/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.139/type/5/sig/GpAezWUpV1w/ct/8/urls/95.163.35.110%3B178.237.23.11/clientType/0/zs/43/id/9742679608046/video/"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -7747,7 +8133,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10312826882798"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1787022497046/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.0/mid/10312826882798/type/5/subId/9220280552174/sig/-XQpXYwRXyU/ct/8/du/5031160/urls/178.237.23.2/clientType/0/asubs/y/zs/43/id/9220280552174/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7767,7 +8154,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10214016944878"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd319.okcdn.ru/expires/1787022499878/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.53.28/type/5/sig/5Tg8IjCQNZk/ct/8/urls/185.226.55.57/clientType/0/zs/43/id/9083601685230/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7787,7 +8175,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10213891443438"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd659.okcdn.ru/expires/1787022502504/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.10/type/5/sig/j-uK9mX6x2c/ct/8/urls/185.226.55.107/clientType/0/zs/43/id/9083416742638/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7807,7 +8196,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10207933893358"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd711.okcdn.ru/expires/1787022505136/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/176.112.172.27/type/5/sig/osvqnVUhAS8/ct/8/urls/185.226.55.48/clientType/0/zs/43/id/9074635770606/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7827,7 +8217,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10213846485742"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd661.okcdn.ru/expires/1787022508530/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.12/type/5/sig/UidWzDCj0XE/ct/8/urls/176.112.172.69/clientType/0/zs/43/id/9083347995374/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7847,7 +8238,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10209735346926"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787022511592/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/-P_-jQatRSc/ct/8/urls/185.226.55.59%3B95.163.35.10/clientType/0/zs/43/id/9077317372654/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7867,7 +8259,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10209981565678"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1787022514950/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/0hrN1uW5vZM/ct/8/urls/95.163.35.115/clientType/0/zs/43/id/9077719042798/video/"
   },
   {
     "CATEGORIA": "POKEMON",
@@ -7887,7 +8280,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10262625651438"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1787022517740/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/VpTIGbXZIEQ/ct/8/urls/185.180.203.11/clientType/0/zs/43/id/9156175203054/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7907,7 +8301,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10050374666990"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd516.okcdn.ru/expires/1787022520438/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/185.226.55.26/type/7/sig/RNNOn6gK0GM/ct/8/urls/178.237.23.78/clientType/0/zs/43/id/8850719640302/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7927,7 +8322,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10036020775662"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/expires/1787022524497/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.133/type/5/sig/TBinTzUShrU/ct/8/urls/176.112.172.3%3B185.226.55.61/clientType/0/zs/43/id/8830539860718/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7947,7 +8343,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9952445401838"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/expires/1787022528323/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.131/type/5/sig/abJIVK6h8yU/ct/8/urls/95.163.35.17%3B185.226.55.24/clientType/0/zs/43/id/8709547625198/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7967,7 +8364,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9951553325806"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-13.vkuser.net/expires/1787022530793/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.140/type/5/sig/OdCsPOVMuxw/ct/8/urls/176.112.172.67%3B185.226.55.61/clientType/0/zs/43/id/8708341435118/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -7987,7 +8385,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9906840472302"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/expires/1787022533247/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.134/type/5/sig/VA-ulmWMrcg/ct/8/urls/185.180.203.98%3B95.163.35.119/clientType/0/zs/43/id/8644737895150/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8007,7 +8406,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9823113448174"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd675.okcdn.ru/expires/1787022536396/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/178.237.23.26/type/7/sig/WIhwZwwsCFg/ct/8/urls/185.226.55.37/clientType/0/zs/43/id/8513637255918/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8027,7 +8427,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9811901549294"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/expires/1787022538985/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.130/type/5/sig/QXXD0R4qZ_I/ct/8/urls/185.226.55.98%3B176.112.172.34/clientType/0/zs/43/id/15230294428398/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8047,7 +8448,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9761679674094"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1787022541968&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.49&type=3&sig=PeRIN2I96zw&ct=0&urls=185.180.203.105&clientType=0&zs=43&id=8420105259758"
   },
   {
     "CATEGORIA": "TINKER_BELL",
@@ -8067,7 +8469,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9758154361582"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd442.okcdn.ru/expires/1787022545748/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.116/type/5/sig/5TXYzGFkblE/ct/8/urls/178.237.23.53/clientType/0/zs/43/id/8415311825646/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -8087,7 +8490,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9874339662574"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1787022548427/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.0/type/5/sig/SHDNj28KEWs/ct/8/urls/185.226.55.27/clientType/0/zs/43/id/8594568841966/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -8107,7 +8511,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9874556914414"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd238.okcdn.ru/expires/1787022551181/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.68/type/5/sig/bzw0VqOFZNo/ct/8/urls/185.180.203.127/clientType/0/zs/43/id/8594911333102/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -8127,7 +8532,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9882284460782"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd487.okcdn.ru/expires/1787022554751/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.163.35.113/type/5/sig/mIgeqIP_qkI/ct/8/urls/185.226.55.56/clientType/0/zs/43/id/8607317428974/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -8147,7 +8553,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/9882380929774"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd535.okcdn.ru/expires/1787022557470/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.45/type/5/sig/BOmX2PCdQu4/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/8607472618222/video/"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -8167,7 +8574,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7498550676100"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1787022559993/clientType/0/srcIp/52.161.59.3/type/2/mid/7498550676100/id/6799060699780/ms/176.112.172.16/zs/43/srcAg/CHROME/urls/178.237.23.24/oq/0/pr/10/ct/28/sig/9H1ZmWaboR0/ondemand/CISV5LzwxQESEgiEleS88MUBEISV5LzwxQEgARoSCISV5LzwxQEQhJXkvPDFASACIAIoATADOAJ4iw6ANhQLHWzQbg/fn/track.m3u8"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -8187,7 +8595,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7498585082500"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd355.okcdn.ru/expires/1787022563690/clientType/0/srcIp/52.161.59.3/type/2/mid/7498585082500/id/6799093336708/ms/178.237.29.133/zs/43/srcAg/CHROME/urls/176.112.172.63/oq/0/pr/10/ct/28/sig/AdqSRFa4OxU/ondemand/CISVrMzwxQESFAiElazM8MUBEISVrMzwxQEYASABGhQIhJWszPDFARCElazM8MUBGAEgAiADKAIwAzgCeNwPAfXh8iCRu2Y/fn/track.m3u8"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -8207,7 +8616,8 @@
     "TRAILER": "https://youtube.com/watch?v=82Sc7KJikX4",
     "URLS_OKRU": [
       "https://ok.ru/video/7499073063556"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd506.okcdn.ru/?expires=1787022572410&srcIp=52.161.59.3&pr=10&srcAg=CHROME&ms=185.226.55.16&type=5&sig=p3nWOuUfSD4&ct=0&urls=185.180.203.35&clientType=0&zs=43&id=6800058354308"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -8227,7 +8637,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7498259761796"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd706.okcdn.ru/expires/1787022576114/clientType/0/srcIp/52.161.59.3/type/2/mid/7498259761796/id/6798751304324/ms/176.112.172.22/zs/43/srcAg/CHROME/urls/95.163.35.34/oq/0/pr/10/ct/28/sig/6o6bodLCqFA/ondemand/CISVoKnvxQESFAiElaCp78UBEISVoKnvxQEYAiABGhQIhJWgqe_FARCElaCp78UBGAIgAiAEKAMwAzgCeJ0PtJZbnEiu4CI/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8247,7 +8658,8 @@
     "TRAILER": "https://youtube.com/watch?v=dFy0wYW3LBo",
     "URLS_OKRU": [
       "https://ok.ru/video/16224128404164"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd668.okcdn.ru/expires/1787022580476/clientType/0/srcIp/52.161.59.3/type/2/mid/16224128404164/id/19088256273092/ms/178.237.23.19/zs/43/srcAg/CHROME/urls/176.112.172.31/oq/0/pr/10/ct/28/sig/4CCoFuIf4U0/ondemand/CMSV8KXFqwQSFAjElfClxasEEMSV8KXFqwQYAiABGhQIxJXwpcWrBBDElfClxasEGAIgAiAEKAMwAzgCeJoIZ-ih9f-9FHc/fn/track.m3u8"
   },
   {
     "CATEGORIA": "MADAGASCAR",
@@ -8267,7 +8679,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/16210274290372"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd686.okcdn.ru/expires/1787022584166/clientType/0/srcIp/52.161.59.3/type/2/mid/16210274290372/id/19064128932548/ms/176.112.172.2/zs/43/srcAg/CHROME/urls/185.226.55.63/oq/0/pr/10/ct/28/sig/jb5Rql_AZFQ/ondemand/CMSViLXrqgQSEgjElYi166oEEMSViLXrqgQgARoSCMSViLXrqgQQxJWIteuqBCACIAIoATADOAJ42wY9Z2XOsAsqvg/fn/track.m3u8"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8287,7 +8700,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10781343550190"
-    ]
+    ],
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/expires/1787022587459/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-1198713527/ms/95.142.206.139/type/7/sig/4bQaGrsgIo4/ct/8/urls/95.163.35.124%3B185.180.203.45/clientType/0/zs/43/id/9825393380078/video/"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8307,7 +8721,8 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/15235336964846"
-    ]
+    ],
+    "URL_DIRECTA": "https://vd547.okcdn.ru/expires/1787022589900/srcIp/52.161.59.3/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.57/mid/15235336964846/type/5/subId/17003706190574/sig/KpWmeSZEiGk/ct/8/du/5340320/urls/176.112.172.103/clientType/0/asubs/y/zs/43/id/17003706190574/video/"
   },
   {
     "CATEGORIA": "MADAGASCAR",
@@ -8328,7 +8743,8 @@
     "TRAILER": "https://youtube.com/watch?v=20CzGelkYnM",
     "URLS": [
       "https://www.tokyvideo.com/es/video/gigimadagascar-2-escape-a-africa-2008-latino-3"
-    ]
+    ],
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=3LAKKABOzvOnAQcQLFuJYg%3D%3D%2C1787022592"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8349,7 +8765,8 @@
     "TRAILER": "https://youtube.com/watch?v=65jEdJHko-M",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=a8RvZApxk-52MqiidJjYeA&expires=1786964997"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -8370,7 +8787,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilas-leyendas-el-origen-2022-Z5cRuQbUxx9BI4Be"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2921106.2521096.1.0.1.1?md5=F7pMD8PfB5uEg60fyXaEBg&expires=1786965000"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -8391,7 +8809,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitogo-2019-latino-CJBqEYSIwBtxzYiW"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.2919998.2521096.1.0.1.1?md5=P428zJEKLDXGy_4z__Xspw&expires=1786965004"
   },
   {
     "CATEGORIA": "MADAGASCAR",
@@ -8412,7 +8831,8 @@
     "TRAILER": "https://youtube.com/watch?v=y2_wbsLQtoQ",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilos-pinguinos-de-madagascar-2014-ul1QJscppfg3052n"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=LA96_Aa5WG6-JnYnCxteQg&expires=1786965008"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8433,7 +8853,8 @@
     "TRAILER": "https://youtube.com/watch?v=WPVF02itjAU",
     "URLS": [
       "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=teo5_6anJuXoCbc08nnwMA&expires=1786965011"
   },
   {
     "CATEGORIA": "DRAGON_BALL_Z",
@@ -8454,7 +8875,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/dragon-ball-z-la-batalla-xz0tBbS9olND4HLW"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3294982.2544586.1.0.1.1?md5=JLSYCV-LDCzTu0IElEeC7A&expires=1786965015"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -8475,7 +8897,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/norbit-2007-dan-yo4O6jcdmuJtcJ3p"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3267609.2544586.1.0.1.1?md5=m2miXXJ3PlDU1zASmSt0OA&expires=1786965019"
   },
   {
     "CATEGORIA": "MOVIES_COMEDY",
@@ -8496,7 +8919,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/super-cool-dan-W7tadlEXgK9tHsBS"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3277569.2544586.1.0.1.1?md5=1RsdQ433rJsLgGTRK2qqyA&expires=1786965023"
   },
   {
     "CATEGORIA": "TERROR_ANIMADO",
@@ -8517,7 +8941,8 @@
     "TRAILER": "https://youtube.com/watch?v=XHphoWVOeCI",
     "URLS": [
       "https://videa.hu/videok/film-animacio/la-mecanica-del-corazon-dan-8z1avBFe8FABnCoE"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3227683.2544586.1.0.1.1?md5=r5V4FSwVpxNgIvoWobxdaQ&expires=1786965027"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8538,7 +8963,8 @@
     "TRAILER": "https://youtube.com/watch?v=pqCgsk2Li_4",
     "URLS": [
       "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=fjeiT9DJE-LBcmrztRFqEA&expires=1786965030"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8559,7 +8985,8 @@
     "TRAILER": "https://youtube.com/watch?v=R3AECE35Anw",
     "URLS": [
       "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=v-MR_Kbs7VxVPaZ1dJPW9w&expires=1786965034"
   },
   {
     "CATEGORIA": "LOS_PITUFOS",
@@ -8580,7 +9007,8 @@
     "TRAILER": "https://youtube.com/watch?v=3-unThbvijE",
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-1-dan-TxXNUqWQCJcOSSgL"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3056937.2544586.1.0.1.1?md5=6unxKVkMfzMi1Ia-ZNwenQ&expires=1786965038"
   },
   {
     "CATEGORIA": "LOS_PITUFOS",
@@ -8601,7 +9029,8 @@
     "TRAILER": "https://youtube.com/watch?v=Rn66I93fKEY",
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-2-dan-qwcNZvHZ4y8cYlau"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056354.2544586.1.0.1.1?md5=Og1yHOPyBsnuRxCK9fgcAQ&expires=1786965041"
   },
   {
     "CATEGORIA": "LOS_PITUFOS",
@@ -8622,7 +9051,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/los-pitufos-3-la-aldea-nCE211BiesmHAPtR"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3056935.2544586.1.0.1.1?md5=kuME2VUfAUw9b0JKFFaHsg&expires=1786965045"
   },
   {
     "CATEGORIA": "HOTEL_TRANSILVANIA",
@@ -8643,7 +9073,8 @@
     "TRAILER": "https://youtube.com/watch?v=mZ7wb2SmDMI",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2012-latino-gZ3PjOGzVxgl6z5V"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558744.2597927.1.0.1.1?md5=B8pgvtQFx4Qxuqk5KAyL9w&expires=1786965048"
   },
   {
     "CATEGORIA": "HOTEL_TRANSILVANIA",
@@ -8664,7 +9095,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-2-2015-latino-0hNUsgBopOwUnkVz"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558742.2597927.1.0.1.1?md5=NY-FEpenoJha0p5uobzN0Q&expires=1786965052"
   },
   {
     "CATEGORIA": "HOTEL_TRANSILVANIA",
@@ -8685,7 +9117,8 @@
     "TRAILER": "https://youtube.com/watch?v=9c44MV4vw9c",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-3-monstruos-de-9mXQujZILvUtDLQv"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558741.2597927.1.0.1.1?md5=ywhv9TD-29iqoLhDStz3SA&expires=1786965056"
   },
   {
     "CATEGORIA": "HOTEL_TRANSILVANIA",
@@ -8706,7 +9139,8 @@
     "TRAILER": "https://youtube.com/watch?v=HRvfDRPxTIg",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigihotel-transilvania-4-transformania-2022-KAAwHGz3O0mTqwch"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558739.2597927.1.0.1.1?md5=8q2eFGJRbLKuQFTVH-M22Q&expires=1786965060"
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -8727,7 +9161,8 @@
     "TRAILER": "https://youtube.com/watch?v=-k5ve8onP1M",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-2pGGTemlHXQi4pYY"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558737.2597927.1.0.1.1?md5=SyH-TbPibMBYfEX1SRuebA&expires=1786965064"
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -8748,7 +9183,8 @@
     "TRAILER": "https://youtube.com/watch?v=Ag_fkJsqlNY",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-8YJJlhuRMLORs0OU"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558734.2597927.1.0.1.1?md5=7z2KW-hMybENC_Gbc9Z4eg&expires=1786965067"
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -8769,7 +9205,8 @@
     "TRAILER": "https://youtube.com/watch?v=kN3lE7rpggQ",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-3FWjYHaF4A2lFRIk"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558732.2597927.1.0.1.1?md5=Pt4sFS28i_eN73oCW52_1g&expires=1786965071"
   },
   {
     "CATEGORIA": "ENTRENAR_A_TU_DRAGON",
@@ -8790,7 +9227,8 @@
     "TRAILER": "https://youtube.com/watch?v=Ns6ZEpQ1xS0",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigicomo-entrenar-a-tu-dragon-UxsRuI3iinDz0URM"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3558738.2597927.1.0.1.1?md5=wVoNyr1dP4OQpD2rqDwcBg&expires=1786965074"
   },
   {
     "CATEGORIA": "TROLLS",
@@ -8811,7 +9249,8 @@
     "TRAILER": "https://youtube.com/watch?v=yGXDktdsjBA",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2016-latino-h7XvP2rxTAbtRS7W"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557562.2597927.1.0.1.1?md5=sWvTO8QGhs0_40PDs62bUw&expires=1786965078"
   },
   {
     "CATEGORIA": "TROLLS",
@@ -8832,7 +9271,8 @@
     "TRAILER": "https://youtube.com/watch?v=6zaZFUqURFA",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-2-gira-mundial-2020-dOSDT0eMNOeRoFVO"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3557551.2597927.1.0.1.1?md5=vwHKnH7DtHAFOsrVwarmBA&expires=1786965082"
   },
   {
     "CATEGORIA": "TROLLS",
@@ -8853,7 +9293,8 @@
     "TRAILER": "https://youtube.com/watch?v=U9IvMjKjXhA",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigitrolls-3-se-armo-la-omut2yjSVLADQy31"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3557538.2597927.1.0.1.1?md5=PDOlhbQirBay9Vx2mRAUbQ&expires=1786965086"
   },
   {
     "CATEGORIA": "BOB_ESPONJA",
@@ -8874,7 +9315,8 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-la-pelicula-2004-SBtHI42e4p7zyZMo"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3558411.2597927.1.0.1.1?md5=r5gvyDEoXV7-QVLhyySZ6w&expires=1786965089"
   },
   {
     "CATEGORIA": "BOB_ESPONJA",
@@ -8895,7 +9337,8 @@
     "TRAILER": "https://youtube.com/watch?v=VPBk6izFecU",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-en-busca-de-h1IXsfIqjJC3CbSp"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3551665.2597927.1.0.1.1?md5=x39mNDSQCPIogEFo3yhAsw&expires=1786965093"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8916,7 +9359,8 @@
     "TRAILER": "https://youtube.com/watch?v=5kdcMfmetuw",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=5-kWJxUhX_d4JbfaUEkYSQ&expires=1786965097"
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -8937,6 +9381,7 @@
     "TRAILER": "No disponible",
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
-    ]
+    ],
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=GHu2Rpp6Fd_THn4FIaWEvg&expires=1786965100"
   }
 ]
