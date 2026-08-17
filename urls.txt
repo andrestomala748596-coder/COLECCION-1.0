@@ -8896,5 +8896,47 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigibob-esponja-en-busca-de-h1IXsfIqjJC3CbSp"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15969,
+    "ID_VIDEO": "videa_qe6e2othPRJzl3T5",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "El retorno de Jafar",
+    "FECHA": "1994-12-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/dpnjhDsWimMUOMsuz2AVsqeU9vL.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mOOJm3tamy9iHg2mOEA77CM6ufZ.jpg",
+    "GENERO": "Familia, Aventura, Animación, Romance",
+    "RATING": 6.2,
+    "DURACION": 69,
+    "FRASE_PROMOCIONAL": "Las aventuras de Aladdín continuan...",
+    "SINOPSIS": "Aladdín y Jasmine viven felices en el palacio real, rodeados de lujos y de la magia del genio. Pero, muy lejos de allí, algo se remueve en las arenas del desierto: Iago, el loro dentudo de Jafar, ha logrado escapar de la lámpara que los mantenía presos a ambos. Tras traicionar a su amo, Iago decide vivir una nueva vida en donde él es el jefe. Pero Jafar esconde más de un as en la manga.",
+    "ACTORES": "  • Scott Weinger (Aladdin (voice))\n  • Linda Larkin (Princess Jasmine (voice))\n  • Jonathan Freeman (Jafar (voice))\n  • Gilbert Gottfried (Iago (voice))\n  • Dan Castellaneta (Genie (voice))",
+    "DIRECTOR": "Tad Stones",
+    "TRAILER": "https://youtube.com/watch?v=5kdcMfmetuw",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 343693,
+    "ID_VIDEO": "videa_yXjipIfywPjCLS6N",
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Aladdin (Aladino)",
+    "FECHA": "1992-04-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6NGjDdErVOmnoqLnjh0ouRfxerS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2TiLyU66HpxoU15PWzj1WHReC78.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Aventura",
+    "RATING": 6.0,
+    "DURACION": 49,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuenta la historia de Aladdín, un joven de la calle que un día encuentra una lámpara mágica con un genio en su interior. Este último es capaz de concederle tres deseos, uno de los cuales es usado por el protagonista para disfrazarse como un príncipe adinerado con tal de impresionar a la princesa Jasmín, de quien se enamora.",
+    "ACTORES": "  • Jeff Bennett (Genie (voice))\n  • Corey Burton (Sultan (voice))\n  • Cam Clarke (Aladdin (voice))\n  • Candi Milo (Fatima / Aladdin's Mother (voice))\n  • Maurice LaMarche (Sultan, Additional Voices)",
+    "DIRECTOR": "樋口雅一",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
+    ]
   }
 ]
