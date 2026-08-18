@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7498550676100"
     ],
-    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1787122387603/clientType/0/srcIp/20.189.186.8/type/2/mid/7498550676100/id/6799060699780/ms/176.112.172.16/zs/43/srcAg/CHROME/urls/185.226.55.19/oq/0/pr/10/ct/28/sig/d0U8EXK1PNw/ondemand/CISV5LzwxQESEgiEleS88MUBEISV5LzwxQEgARoSCISV5LzwxQEQhJXkvPDFASACIAIoATADOAJ4iw6ANhQLHWzQbg/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd700.okcdn.ru/expires/1787144046986/clientType/0/srcIp/40.65.59.115/type/2/mid/7498550676100/id/6799060699780/ms/176.112.172.16/zs/43/srcAg/CHROME/urls/185.226.55.19/oq/0/pr/10/ct/28/sig/64hg526VxZU/ondemand/CISV5LzwxQESEgiEleS88MUBEISV5LzwxQEgARoSCISV5LzwxQEQhJXkvPDFASACIAIoATADOAJ4iw6ANhQLHWzQbg/fn/track.m3u8"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7498585082500"
     ],
-    "URL_DIRECTA": "https://vd355.okcdn.ru/expires/1787122391348/clientType/0/srcIp/20.189.186.8/type/2/mid/7498585082500/id/6799093336708/ms/178.237.29.133/zs/43/srcAg/CHROME/urls/176.112.172.63/oq/0/pr/10/ct/28/sig/iu2uewB9_o4/ondemand/CISVrMzwxQESFAiElazM8MUBEISVrMzwxQEYASABGhQIhJWszPDFARCElazM8MUBGAEgAiADKAIwAzgCeNwPAfXh8iCRu2Y/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd288.okcdn.ru/expires/1787144051099/clientType/0/srcIp/40.65.59.115/type/2/mid/7498585082500/id/6799093336708/ms/176.112.172.63/zs/43/srcAg/CHROME/urls/178.237.29.133/oq/0/pr/10/ct/28/sig/JZkOHV8m7rQ/ondemand/CISVrMzwxQESFAiElazM8MUBEISVrMzwxQEYASABGhQIhJWszPDFARCElazM8MUBGAEgAiADKAIwAzgCeNwPAfXh8iCRu2Y/fn/track.m3u8"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7499073063556"
     ],
-    "URL_DIRECTA": "https://vd506.okcdn.ru/?expires=1787122400615&srcIp=20.189.186.8&pr=10&srcAg=CHROME&ms=185.226.55.16&type=5&sig=cDFMkn8Fwic&ct=0&urls=185.180.203.35&clientType=0&zs=43&id=6800058354308"
+    "URL_DIRECTA": "https://vd506.okcdn.ru/?expires=1787144060448&srcIp=40.65.59.115&pr=10&srcAg=CHROME&ms=185.226.55.16&type=5&sig=OtLIHMf43N0&ct=0&urls=185.180.203.35&clientType=0&zs=43&id=6800058354308"
   },
   {
     "CATEGORIA": "HUEVOS",
@@ -81,6 +81,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7498259761796"
     ],
-    "URL_DIRECTA": "https://vd706.okcdn.ru/expires/1787122404931/clientType/0/srcIp/20.189.186.8/type/2/mid/7498259761796/id/6798751304324/ms/176.112.172.22/zs/43/srcAg/CHROME/urls/178.237.23.6/oq/0/pr/10/ct/28/sig/TqK98HuA96g/ondemand/CISVoKnvxQESFAiElaCp78UBEISVoKnvxQEYAiABGhQIhJWgqe_FARCElaCp78UBGAIgAiAEKAMwAzgCeJ0PtJZbnEiu4CI/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd706.okcdn.ru/expires/1787144065225/clientType/0/srcIp/40.65.59.115/type/2/mid/7498259761796/id/6798751304324/ms/176.112.172.22/zs/43/srcAg/CHROME/urls/95.163.35.34/oq/0/pr/10/ct/28/sig/2xqNi8f2gLo/ondemand/CISVoKnvxQESFAiElaCp78UBEISVoKnvxQEYAiABGhQIhJWgqe_FARCElaCp78UBGAIgAiAEKAMwAzgCeJ0PtJZbnEiu4CI/fn/track.m3u8"
   }
 ]
