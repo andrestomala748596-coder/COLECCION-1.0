@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033312242299"
     ],
-    "URL_DIRECTA": "https://vd338.okcdn.ru/expires/1788265375609/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.77/type/3/sig/StDF1oU5kwg/ct/8/urls/95.163.35.6/clientType/0/zs/43/id/7846414322299/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "BALTO",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033310276219"
     ],
-    "URL_DIRECTA": "https://vd274.okcdn.ru/expires/1788265378252/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/1676822812/ms/176.112.172.54/type/3/sig/S23rc823LQ4/ct/8/urls/178.237.23.2/clientType/0/zs/43/id/7846410717819/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "BALTO",
@@ -60,6 +60,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033311455867"
     ],
-    "URL_DIRECTA": "https://vd591.okcdn.ru/expires/1788265380722/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/1676822812/ms/178.237.29.10/type/3/sig/YqfZYJ1o7SA/ct/8/urls/176.112.172.23/clientType/0/zs/43/id/7846412225147/video/"
+    "URL_DIRECTA": ""
   }
 ]

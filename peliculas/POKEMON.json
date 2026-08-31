@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10214016944878"
     ],
-    "URL_DIRECTA": "https://vd547.okcdn.ru/expires/1788266189790/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.57/type/5/sig/TwpOHc-zNb4/ct/8/urls/95.163.35.17/clientType/0/zs/43/id/9083601685230/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10213891443438"
     ],
-    "URL_DIRECTA": "https://vd586.okcdn.ru/expires/1788266192381/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.107/type/5/sig/Ia7u4aLbwBY/ct/8/urls/176.112.172.82/clientType/0/zs/43/id/9083416742638/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10207933893358"
     ],
-    "URL_DIRECTA": "https://ok6-8.vkuser.net/expires/1788266195501/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.135/type/5/sig/A6YnF5xmtlw/ct/8/urls/176.112.172.27%3B185.226.55.48/clientType/0/zs/43/id/9074635770606/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -81,7 +81,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10213846485742"
     ],
-    "URL_DIRECTA": "https://vd661.okcdn.ru/expires/1788266198881/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.12/type/5/sig/myn4OlxFZ5w/ct/8/urls/176.112.172.69/clientType/0/zs/43/id/9083347995374/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -102,7 +102,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10209735346926"
     ],
-    "URL_DIRECTA": "https://vd549.okcdn.ru/expires/1788266201775/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/185.226.55.59/type/5/sig/B7z4iDjD_Wo/ct/8/urls/95.163.35.10/clientType/0/zs/43/id/9077317372654/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -123,7 +123,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10209981565678"
     ],
-    "URL_DIRECTA": "https://vd657.okcdn.ru/expires/1788266204452/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/178.237.23.8/type/5/sig/Tu6qYEetYLY/ct/8/urls/185.226.55.46/clientType/0/zs/43/id/9077719042798/video/"
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "POKEMON",
@@ -144,6 +144,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10262625651438"
     ],
-    "URL_DIRECTA": "https://vd625.okcdn.ru/expires/1788266207702/srcIp/68.154.116.117/pr/10/srcAg/CHROME/ch/-536166974/ms/185.180.203.11/type/5/sig/IJwKqBcjnuA/ct/8/urls/178.237.23.8/clientType/0/zs/43/id/9156175203054/video/"
+    "URL_DIRECTA": ""
   }
 ]
