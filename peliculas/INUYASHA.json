@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989191187061"
     ],
-    "URL_DIRECTA": "https://vd602.okcdn.ru/?expires=1793244683334&srcIp=52.161.51.66&pr=10&srcAg=CHROME&ms=95.163.35.125&type=5&sig=df3LdXSTOvA&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=5957255957109"
+    "URL_DIRECTA": "https://vd567.okcdn.ru/?expires=1793275457147&srcIp=4.249.22.131&pr=10&srcAg=CHROME&ms=178.237.23.79&type=5&sig=wBzuhYvs05s&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=5957255957109"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989304564341"
     ],
-    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1793244689018&srcIp=52.161.51.66&pr=10&srcAg=CHROME&ms=176.112.172.82&type=3&sig=bQlyh7BVuhg&ct=0&urls=185.226.55.97&clientType=0&zs=43&id=5957341416053"
+    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1793275462061&srcIp=4.249.22.131&pr=10&srcAg=CHROME&ms=176.112.172.82&type=3&sig=e7gYp3NFI3A&ct=0&urls=178.237.23.41&clientType=0&zs=43&id=5957341416053"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989331827317"
     ],
-    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1793244693994&srcIp=52.161.51.66&pr=10&srcAg=CHROME&ms=185.180.203.33&type=5&sig=6I8FSi0Ckl4&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=5957421304437"
+    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1793275466009&srcIp=4.249.22.131&pr=10&srcAg=CHROME&ms=185.180.203.33&type=5&sig=Uv-cPKSKfN0&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=5957421304437"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -81,6 +81,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989373770357"
     ],
-    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1793244698890&srcIp=52.161.51.66&pr=10&srcAg=CHROME&ms=176.112.172.0&type=5&sig=b3zizC9Ew28&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797"
+    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1793275470215&srcIp=4.249.22.131&pr=10&srcAg=CHROME&ms=176.112.172.0&type=5&sig=I3wyAH5l7Dc&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797"
   }
 ]
