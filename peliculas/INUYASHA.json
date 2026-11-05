@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989191187061"
     ],
-    "URL_DIRECTA": "https://vd567.okcdn.ru/?expires=1793940037912&srcIp=74.249.135.120&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.79&type=5&sig=aa5K_VKL4fA&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=5957255957109&rjr=8"
+    "URL_DIRECTA": "https://vd602.okcdn.ru/?expires=1793973437490&srcIp=52.176.139.80&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.125&type=5&sig=FR5Q_VAIpEA&ct=0&urls=178.237.23.79&clientType=0&zs=43&id=5957255957109&rjr=8"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989304564341"
     ],
-    "URL_DIRECTA": "https://vd439.okcdn.ru/?expires=1793940042461&srcIp=74.249.135.120&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.41&type=3&sig=QMlFDga-P_o&ct=0&urls=95.163.35.110&clientType=0&zs=43&id=5957341416053&rjr=8"
+    "URL_DIRECTA": "https://vd439.okcdn.ru/?expires=1793973441223&srcIp=52.176.139.80&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.41&type=3&sig=yH048CyHaf8&ct=0&urls=185.226.55.97&clientType=0&zs=43&id=5957341416053&rjr=8"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989331827317"
     ],
-    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1793940046488&srcIp=74.249.135.120&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.33&type=5&sig=frASSvr9Npg&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=5957421304437&rjr=8"
+    "URL_DIRECTA": "https://vd636.okcdn.ru/?expires=1793973446133&srcIp=52.176.139.80&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.33&type=5&sig=a3AYgUONsBE&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=5957421304437&rjr=8"
   },
   {
     "CATEGORIA": "INUYASHA",
@@ -81,6 +81,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989373770357"
     ],
-    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1793940050361&srcIp=74.249.135.120&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.0&type=5&sig=YVDv7WaVqGU&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797&rjr=8"
+    "URL_DIRECTA": "https://vd684.okcdn.ru/?expires=1793973450236&srcIp=52.176.139.80&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.0&type=5&sig=pTujwrsAxjg&ct=0&urls=185.180.203.125&clientType=0&zs=43&id=5957528455797&rjr=8"
   }
 ]
