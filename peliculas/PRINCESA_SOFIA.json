@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446969977476"
     ],
-    "URL_DIRECTA": "https://vd464.okcdn.ru/expires/1794007537479/clientType/0/srcIp/20.64.24.248/type/2/mid/7446969977476/id/6714834684548/ms/176.112.172.99/zs/43/srcAg/CHROME/urls/185.226.55.59/oq/0/pr/10/ct/28/sig/IORTecQR0Xo/ondemand/CISV2Nq2wwESFAiEldjatsMBEISV2Nq2wwEYAiABGhQIhJXY2rbDARCEldjatsMBGAIgAiAEKAMwAzgCeMgRVVaItuOwdMk/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd464.okcdn.ru/expires/1794026927960/clientType/0/srcIp/130.131.204.84/type/2/mid/7446969977476/id/6714834684548/ms/176.112.172.99/zs/43/srcAg/CHROME/urls/185.226.55.59/oq/0/pr/10/ct/28/sig/Nv32tOrfb3I/ondemand/CISV2Nq2wwESFAiEldjatsMBEISV2Nq2wwEYAiABGhQIhJXY2rbDARCEldjatsMBGAIgAiAEKAMwAzgCeMgRVVaItuOwdMk/fn/track.m3u8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446920956548"
     ],
-    "URL_DIRECTA": "https://vd199.okcdn.ru/?expires=1794007541085&srcIp=20.64.24.248&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.42&type=3&sig=qPasEeEPLI0&ct=0&urls=185.226.55.54&clientType=0&zs=43&id=6714762726020&rjr=8"
+    "URL_DIRECTA": "https://vd199.okcdn.ru/?expires=1794026931439&srcIp=130.131.204.84&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.42&type=3&sig=E-9JkNZe6Eo&ct=0&urls=185.226.55.54&clientType=0&zs=43&id=6714762726020&rjr=8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -60,6 +60,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446912371332"
     ],
-    "URL_DIRECTA": "https://vd601.okcdn.ru/expires/1794007544933/clientType/0/srcIp/20.64.24.248/type/2/mid/7446912371332/id/6714749880964/ms/178.237.29.64/zs/43/srcAg/CHROME/urls/185.226.55.13/oq/0/pr/10/ct/28/sig/x1UYJnrCBjA/ondemand/CISVoLK2wwESFAiElaCytsMBEISVoLK2wwEYASABGhQIhJWgsrbDARCElaCytsMBGAEgAiADKAIwAzgCeKgHHsrHFkjaDZs/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd601.okcdn.ru/expires/1794026934597/clientType/0/srcIp/130.131.204.84/type/2/mid/7446912371332/id/6714749880964/ms/178.237.29.64/zs/43/srcAg/CHROME/urls/185.180.203.26/oq/0/pr/10/ct/28/sig/87sZbXnYltI/ondemand/CISVoLK2wwESFAiElaCytsMBEISVoLK2wwEYASABGhQIhJWgsrbDARCElaCytsMBGAEgAiADKAIwAzgCeKgHHsrHFkjaDZs/fn/track.m3u8"
   }
 ]
