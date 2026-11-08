@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446969977476"
     ],
-    "URL_DIRECTA": "https://vd451.okcdn.ru/expires/1794173692256/clientType/0/srcIp/57.154.5.130/type/2/mid/7446969977476/id/6714834684548/ms/185.180.203.55/zs/43/srcAg/CHROME/urls/185.226.55.59/oq/0/pr/10/ct/28/sig/KEaErktvjV4/ondemand/CISV2Nq2wwESFAiEldjatsMBEISV2Nq2wwEYAiABGhQIhJXY2rbDARCEldjatsMBGAIgAiAEKAMwAzgCeMgRVVaItuOwdMk/fn/track.m3u8"
+    "URL_DIRECTA": "https://vd451.okcdn.ru/expires/1794196638630/clientType/0/srcIp/134.138.45.118/type/2/mid/7446969977476/id/6714834684548/ms/185.180.203.55/zs/43/srcAg/CHROME/urls/185.226.55.59/oq/0/pr/10/ct/28/sig/E5F8ocUSpnM/ondemand/CISV2Nq2wwESFAiEldjatsMBEISV2Nq2wwEYAiABGhQIhJXY2rbDARCEldjatsMBGAIgAiAEKAMwAzgCeMgRVVaItuOwdMk/fn/track.m3u8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446920956548"
     ],
-    "URL_DIRECTA": "https://vd199.okcdn.ru/?expires=1794173695698&srcIp=57.154.5.130&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.42&type=3&sig=S92cZ0tgQ_Q&ct=0&urls=185.226.55.54&clientType=0&zs=43&id=6714762726020&rjr=8"
+    "URL_DIRECTA": "https://vd199.okcdn.ru/?expires=1794196641634&srcIp=134.138.45.118&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.42&type=3&sig=uOFog7KodHo&ct=0&urls=185.226.55.54&clientType=0&zs=43&id=6714762726020&rjr=8"
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -60,6 +60,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446912371332"
     ],
-    "URL_DIRECTA": "https://vd601.okcdn.ru/?expires=1794173699162&srcIp=57.154.5.130&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.64&type=1&sig=AjjuR2yX5Os&ct=0&urls=185.180.203.26&clientType=0&zs=43&id=6714749880964&rjr=8"
+    "URL_DIRECTA": "https://vd601.okcdn.ru/expires/1794196644690/clientType/0/srcIp/134.138.45.118/type/2/mid/7446912371332/id/6714749880964/ms/178.237.29.64/zs/43/srcAg/CHROME/urls/185.180.203.26/oq/0/pr/10/ct/28/sig/tcP5NY54aFE/ondemand/CISVoLK2wwESFAiElaCytsMBEISVoLK2wwEYASABGhQIhJWgsrbDARCElaCytsMBGAEgAiADKAIwAzgCeKgHHsrHFkjaDZs/fn/track.m3u8"
   }
 ]
