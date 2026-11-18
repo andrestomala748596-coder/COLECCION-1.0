@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3331761507009"
     ],
-    "URL_DIRECTA": "https://vd339.okcdn.ru/expires/1795015708055/srcIp/20.57.143.118/pr/10/srcAg/CHROME/rjz/43/ch/-1811865663/ms/176.112.172.78/type/0/sig/V44fpws9s3s/ct/8/urls/185.226.55.51/clientType/0/zs/43/id/2006246427329/rjr/8/video/"
+    "URL_DIRECTA": "https://vd196.okcdn.ru/expires/1795048056359/srcIp/20.220.118.3/pr/10/srcAg/CHROME/rjz/65/ch/-1811865663/ms/95.163.35.41/type/0/sig/JKmDNBQIrNM/ct/8/urls/176.112.172.39/clientType/0/zs/65/id/2006246427329/rjr/8/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/671081630226"
     ],
-    "URL_DIRECTA": "https://vd709.okcdn.ru/expires/1795015711391/srcIp/20.57.143.118/pr/10/srcAg/CHROME/rjz/43/ch/1859034457/ms/176.112.172.25/type/1/sig/vWa0pcSvRbs/ct/8/urls/178.237.23.57/clientType/0/zs/43/id/436235602450/rjr/8/video/"
+    "URL_DIRECTA": "https://vd423.okcdn.ru/expires/1795048058937/srcIp/20.220.118.3/pr/10/srcAg/CHROME/rjz/65/ch/1859034457/ms/178.237.23.39/type/1/sig/kUHgwEtuNZk/ct/8/urls/176.112.172.39/clientType/0/zs/65/id/436235602450/rjr/8/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3179407936122"
     ],
-    "URL_DIRECTA": "https://ok6-14.vkuser.net/expires/1795015714416/srcIp/20.57.143.118/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.141/type/5/sig/50UG1DQcj7I/ct/8/urls/176.112.172.1%3B95.163.35.70/clientType/0/zs/43/id/2117567253114/video/"
+    "URL_DIRECTA": "https://ok6-30.vkuser.net/expires/1795048062530/srcIp/20.220.118.3/pr/10/srcAg/CHROME/ch/-536166974/ms/95.142.206.34/type/5/sig/sxK7nD7LLrM/ct/8/urls/178.237.23.39%3B185.180.203.46/clientType/0/zs/65/id/2117567253114/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -81,7 +81,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3178019621498"
     ],
-    "URL_DIRECTA": "https://vd406.okcdn.ru/expires/1795015718229/srcIp/20.57.143.118/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.180.203.127/mid/3178019621498/type/5/subId/2115592915578/sig/Ec7qUaOep-g/ct/8/du/5265260/urls/178.237.29.193/clientType/0/asubs/y/zs/43/id/2115592915578/rjr/8/video/"
+    "URL_DIRECTA": "https://vd423.okcdn.ru/expires/1795048079748/srcIp/20.220.118.3/pr/10/srcAg/CHROME/rjz/65/ch/-536166974/ms/178.237.23.39/mid/3178019621498/type/5/subId/2115592915578/sig/aEyF_t8txjo/ct/8/du/5265260/urls/176.112.172.39/clientType/0/asubs/y/zs/65/id/2115592915578/rjr/8/video/"
   },
   {
     "CATEGORIA": "LA_ERA_DE_HIELO",
@@ -102,6 +102,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3177999501946"
     ],
-    "URL_DIRECTA": "https://vd718.okcdn.ru/expires/1795015722358/srcIp/20.57.143.118/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.34/mid/3177999501946/type/5/subId/2115580529274/sig/Vo_VRluYUaM/ct/8/du/5672768/urls/178.237.29.131/clientType/0/asubs/y/zs/43/id/2115580529274/rjr/8/video/"
+    "URL_DIRECTA": "https://vd296.okcdn.ru/expires/1795048083389/srcIp/20.220.118.3/pr/10/srcAg/CHROME/rjz/65/ch/-536166974/ms/185.180.203.46/mid/3177999501946/type/5/subId/2115580529274/sig/Vz6igTqAaII/ct/8/du/5672768/urls/178.237.23.39/clientType/0/asubs/y/zs/65/id/2115580529274/rjr/8/video/"
   }
 ]
