@@ -18,7 +18,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9874339662574"
     ],
-    "URL_DIRECTA": ""
+    "URL_DIRECTA": "https://vd723.okcdn.ru/expires/1795964907655/srcIp/134.138.45.48/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.0/type/5/sig/d9gwkOf7e5A/ct/8/urls/185.180.203.37/clientType/0/zs/43/id/8594568841966/rjr/8/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -39,7 +39,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9874556914414"
     ],
-    "URL_DIRECTA": "https://vd543.okcdn.ru/expires/1795914636786/srcIp/3.41.210.134/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.53/type/5/sig/u1X8WRfFjdc/ct/8/urls/95.163.35.68/clientType/0/zs/43/id/8594911333102/rjr/8/video/"
+    "URL_DIRECTA": "https://vd543.okcdn.ru/expires/1795964910523/srcIp/134.138.45.48/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.53/type/5/sig/TUd0YvjSt0M/ct/8/urls/185.180.203.127/clientType/0/zs/43/id/8594911333102/rjr/8/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -60,7 +60,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9882284460782"
     ],
-    "URL_DIRECTA": "https://vd487.okcdn.ru/expires/1795914639344/srcIp/3.41.210.134/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.113/type/5/sig/DKa-skdBKFY/ct/8/urls/185.226.55.56/clientType/0/zs/43/id/8607317428974/rjr/8/video/"
+    "URL_DIRECTA": "https://vd487.okcdn.ru/expires/1795964913478/srcIp/134.138.45.48/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/95.163.35.113/type/5/sig/GD-AS6O-u9I/ct/8/urls/185.226.55.56/clientType/0/zs/43/id/8607317428974/rjr/8/video/"
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -81,6 +81,6 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9882380929774"
     ],
-    "URL_DIRECTA": "https://vd535.okcdn.ru/expires/1795914641772/srcIp/3.41.210.134/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/185.226.55.45/type/5/sig/tC2mlfKqu5Y/ct/8/urls/176.112.172.126/clientType/0/zs/43/id/8607472618222/rjr/8/scl/5/video/"
+    "URL_DIRECTA": "https://vd403.okcdn.ru/expires/1795964916300/srcIp/134.138.45.48/pr/10/srcAg/CHROME/rjz/43/ch/-536166974/ms/176.112.172.126/type/5/sig/D-DAX2L04V0/ct/8/urls/185.226.55.45/clientType/0/zs/43/id/8607472618222/rjr/8/scl/5/video/"
   }
 ]
